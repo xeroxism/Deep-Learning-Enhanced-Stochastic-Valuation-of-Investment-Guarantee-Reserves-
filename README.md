@@ -1,7 +1,3 @@
-# Deep-Learning-Enhanced-Stochastic-Valuation-of-Investment-Guarantee-Reserves-
-Official repository for the WQU Capstone Project by A. Omorokunwa &amp; A. Mwangi, supervised by Prof. Joe W. Byers. This research paper introduces a hybrid framework combining stochastic simulations with Deep Learning to optimize investment guarantee reserve valuations amidst the unique volatility of the Nigerian financial market.
-
-
 # Deep Learning Enhanced Stochastic Valuation of Investment Guarantee Reserves Under Nigerian Market Volatility
 
 This repository contains the official code, data structures, and documentation for the research project titled **"Deep Learning Enhanced Stochastic Valuation of Investment Guarantee Reserves Under Nigerian Market Volatility"**, submitted as a Capstone Project at **WorldQuant University (WQU)** and prepared for journal publication.
