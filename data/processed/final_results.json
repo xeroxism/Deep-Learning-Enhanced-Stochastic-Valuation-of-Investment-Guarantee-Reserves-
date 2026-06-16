@@ -1,0 +1,5636 @@
+{
+  "model_comparison": [
+    {
+      "time_step": 1,
+      "insurer_reserve": 290278.01925466873,
+      "model_reserve": 268792.51803127746,
+      "absolute_error": 21485.50122339127,
+      "relative_error_pct": 7.401697613397817
+    },
+    {
+      "time_step": 2,
+      "insurer_reserve": 290074.2490719708,
+      "model_reserve": 268127.5732983786,
+      "absolute_error": 21946.6757735922,
+      "relative_error_pct": 7.565882129767049
+    },
+    {
+      "time_step": 3,
+      "insurer_reserve": 289289.8393082273,
+      "model_reserve": 267450.1138271655,
+      "absolute_error": 21839.72548106179,
+      "relative_error_pct": 7.549427084368626
+    },
+    {
+      "time_step": 4,
+      "insurer_reserve": 289095.0647574352,
+      "model_reserve": 266763.8654614517,
+      "absolute_error": 22331.199295983475,
+      "relative_error_pct": 7.724517647757301
+    },
+    {
+      "time_step": 5,
+      "insurer_reserve": 289085.2165683512,
+      "model_reserve": 266073.8887620484,
+      "absolute_error": 23011.327806302812,
+      "relative_error_pct": 7.960050008597386
+    },
+    {
+      "time_step": 6,
+      "insurer_reserve": 288883.163216187,
+      "model_reserve": 265382.1821287568,
+      "absolute_error": 23500.981087430206,
+      "relative_error_pct": 8.135116226847442
+    },
+    {
+      "time_step": 7,
+      "insurer_reserve": 288680.47322231065,
+      "model_reserve": 264700.8299681768,
+      "absolute_error": 23979.643254133873,
+      "relative_error_pct": 8.306638473488759
+    },
+    {
+      "time_step": 8,
+      "insurer_reserve": 288477.1336389941,
+      "model_reserve": 264038.84928380285,
+      "absolute_error": 24438.28435519128,
+      "relative_error_pct": 8.471480580424036
+    },
+    {
+      "time_step": 9,
+      "insurer_reserve": 288273.1312897537,
+      "model_reserve": 263406.63549446117,
+      "absolute_error": 24866.495795292547,
+      "relative_error_pct": 8.626019249188484
+    },
+    {
+      "time_step": 10,
+      "insurer_reserve": 288101.7704298421,
+      "model_reserve": 262816.0447043287,
+      "absolute_error": 25285.725725513417,
+      "relative_error_pct": 8.77666447095678
+    },
+    {
+      "time_step": 11,
+      "insurer_reserve": 288608.59158577555,
+      "model_reserve": 262280.51886495,
+      "absolute_error": 26328.072720825556,
+      "relative_error_pct": 9.122414747310374
+    },
+    {
+      "time_step": 12,
+      "insurer_reserve": 288376.65553545015,
+      "model_reserve": 261797.96389286267,
+      "absolute_error": 26578.69164258748,
+      "relative_error_pct": 9.216658537507785
+    },
+    {
+      "time_step": 13,
+      "insurer_reserve": 288143.93706225284,
+      "model_reserve": 261400.35297796503,
+      "absolute_error": 26743.58408428781,
+      "relative_error_pct": 9.281328060187475
+    },
+    {
+      "time_step": 14,
+      "insurer_reserve": 287910.4204232816,
+      "model_reserve": 261092.40488659323,
+      "absolute_error": 26818.015536688385,
+      "relative_error_pct": 9.314708198911639
+    },
+    {
+      "time_step": 15,
+      "insurer_reserve": 287676.089602164,
+      "model_reserve": 260873.65551859076,
+      "absolute_error": 26802.43408357323,
+      "relative_error_pct": 9.316879314036537
+    },
+    {
+      "time_step": 16,
+      "insurer_reserve": 287440.9283042867,
+      "model_reserve": 260740.37457849647,
+      "absolute_error": 26700.553725790203,
+      "relative_error_pct": 9.289057714677583
+    },
+    {
+      "time_step": 17,
+      "insurer_reserve": 287400.0555214112,
+      "model_reserve": 260685.25617369282,
+      "absolute_error": 26714.799347718363,
+      "relative_error_pct": 9.295335486018416
+    },
+    {
+      "time_step": 18,
+      "insurer_reserve": 287194.0213563578,
+      "model_reserve": 260692.08952469548,
+      "absolute_error": 26501.93183166231,
+      "relative_error_pct": 9.227884238849814
+    },
+    {
+      "time_step": 19,
+      "insurer_reserve": 286947.9705196786,
+      "model_reserve": 260750.34180674184,
+      "absolute_error": 26197.62871293677,
+      "relative_error_pct": 9.129748736501401
+    },
+    {
+      "time_step": 20,
+      "insurer_reserve": 286700.9969184572,
+      "model_reserve": 260839.88755101743,
+      "absolute_error": 25861.109367439785,
+      "relative_error_pct": 9.020236987454613
+    },
+    {
+      "time_step": 21,
+      "insurer_reserve": 286453.08253334207,
+      "model_reserve": 260935.73604405313,
+      "absolute_error": 25517.34648928893,
+      "relative_error_pct": 8.908036968434022
+    },
+    {
+      "time_step": 22,
+      "insurer_reserve": 286204.2090363465,
+      "model_reserve": 261007.91674272943,
+      "absolute_error": 25196.292293617094,
+      "relative_error_pct": 8.803606480300676
+    },
+    {
+      "time_step": 23,
+      "insurer_reserve": 286674.0203993387,
+      "model_reserve": 261021.57489593985,
+      "absolute_error": 25652.445503398834,
+      "relative_error_pct": 8.948297954472755
+    },
+    {
+      "time_step": 24,
+      "insurer_reserve": 286426.0941806087,
+      "model_reserve": 260917.8358687457,
+      "absolute_error": 25508.258311863,
+      "relative_error_pct": 8.905703366460225
+    },
+    {
+      "time_step": 25,
+      "insurer_reserve": 286143.25523267314,
+      "model_reserve": 260680.22868498307,
+      "absolute_error": 25463.026547690068,
+      "relative_error_pct": 8.898698844739563
+    },
+    {
+      "time_step": 26,
+      "insurer_reserve": 285898.6266700093,
+      "model_reserve": 260300.7128900443,
+      "absolute_error": 25597.91377996499,
+      "relative_error_pct": 8.953493088832037
+    },
+    {
+      "time_step": 27,
+      "insurer_reserve": 285612.3862509922,
+      "model_reserve": 259782.24784422942,
+      "absolute_error": 25830.138406762766,
+      "relative_error_pct": 9.043773887335405
+    },
+    {
+      "time_step": 28,
+      "insurer_reserve": 285324.98405789403,
+      "model_reserve": 259131.9637453993,
+      "absolute_error": 26193.020312494744,
+      "relative_error_pct": 9.180065460787
+    },
+    {
+      "time_step": 29,
+      "insurer_reserve": 285234.54819744185,
+      "model_reserve": 258360.7326055087,
+      "absolute_error": 26873.815591933148,
+      "relative_error_pct": 9.421655182292595
+    },
+    {
+      "time_step": 30,
+      "insurer_reserve": 284948.63202089723,
+      "model_reserve": 257477.02638244873,
+      "absolute_error": 27471.6056384485,
+      "relative_error_pct": 9.640897534273412
+    },
+    {
+      "time_step": 31,
+      "insurer_reserve": 284648.1429340364,
+      "model_reserve": 256503.47897240747,
+      "absolute_error": 28144.663961628918,
+      "relative_error_pct": 9.887527693497402
+    },
+    {
+      "time_step": 32,
+      "insurer_reserve": 284346.3701545031,
+      "model_reserve": 255459.36595488017,
+      "absolute_error": 28887.004199622927,
+      "relative_error_pct": 10.159090191278622
+    },
+    {
+      "time_step": 33,
+      "insurer_reserve": 284043.289723938,
+      "model_reserve": 254365.92374361525,
+      "absolute_error": 29677.365980322735,
+      "relative_error_pct": 10.448184151495429
+    },
+    {
+      "time_step": 34,
+      "insurer_reserve": 283738.8772901015,
+      "model_reserve": 253246.05093795515,
+      "absolute_error": 30492.826352146338,
+      "relative_error_pct": 10.746791783830783
+    },
+    {
+      "time_step": 35,
+      "insurer_reserve": 284122.798350604,
+      "model_reserve": 252124.1069237774,
+      "absolute_error": 31998.691426826612,
+      "relative_error_pct": 11.262275189666624
+    },
+    {
+      "time_step": 36,
+      "insurer_reserve": 283779.9172080287,
+      "model_reserve": 251004.7433235484,
+      "absolute_error": 32775.17388448032,
+      "relative_error_pct": 11.549504350744465
+    },
+    {
+      "time_step": 37,
+      "insurer_reserve": 283435.51281116693,
+      "model_reserve": 249931.66044820848,
+      "absolute_error": 33503.85236295845,
+      "relative_error_pct": 11.820626156073711
+    },
+    {
+      "time_step": 38,
+      "insurer_reserve": 283162.28592679946,
+      "model_reserve": 248909.52775810673,
+      "absolute_error": 34252.75816869273,
+      "relative_error_pct": 12.096511389778595
+    },
+    {
+      "time_step": 39,
+      "insurer_reserve": 282796.13918140973,
+      "model_reserve": 247938.29088150497,
+      "absolute_error": 34857.848299904756,
+      "relative_error_pct": 12.326140095407716
+    },
+    {
+      "time_step": 40,
+      "insurer_reserve": 282444.7220226721,
+      "model_reserve": 247017.69273656045,
+      "absolute_error": 35427.029286111676,
+      "relative_error_pct": 12.542995681564872
+    },
+    {
+      "time_step": 41,
+      "insurer_reserve": 282277.9081203833,
+      "model_reserve": 246147.2674330856,
+      "absolute_error": 36130.64068729768,
+      "relative_error_pct": 12.799669987595705
+    },
+    {
+      "time_step": 42,
+      "insurer_reserve": 281912.24836391077,
+      "model_reserve": 245320.1577464891,
+      "absolute_error": 36592.090617421665,
+      "relative_error_pct": 12.979957710168804
+    },
+    {
+      "time_step": 43,
+      "insurer_reserve": 281544.870455033,
+      "model_reserve": 244541.66902102515,
+      "absolute_error": 37003.20143400782,
+      "relative_error_pct": 13.14291443996235
+    },
+    {
+      "time_step": 44,
+      "insurer_reserve": 281175.7435433195,
+      "model_reserve": 243810.6569015509,
+      "absolute_error": 37365.086641768634,
+      "relative_error_pct": 13.288872706763897
+    },
+    {
+      "time_step": 45,
+      "insurer_reserve": 280804.8362904083,
+      "model_reserve": 243125.73219458485,
+      "absolute_error": 37679.10409582342,
+      "relative_error_pct": 13.418253258592635
+    },
+    {
+      "time_step": 46,
+      "insurer_reserve": 280432.1168622356,
+      "model_reserve": 242485.24911628486,
+      "absolute_error": 37946.86774595073,
+      "relative_error_pct": 13.531569839624474
+    },
+    {
+      "time_step": 47,
+      "insurer_reserve": 280656.9243173592,
+      "model_reserve": 241887.29261987083,
+      "absolute_error": 38769.631697488396,
+      "relative_error_pct": 13.813887468405643
+    },
+    {
+      "time_step": 48,
+      "insurer_reserve": 280238.1764754992,
+      "model_reserve": 241307.11411941872,
+      "absolute_error": 38931.06235608045,
+      "relative_error_pct": 13.892133771960987
+    },
+    {
+      "time_step": 49,
+      "insurer_reserve": 279817.36965661665,
+      "model_reserve": 240763.32397904183,
+      "absolute_error": 39054.04567757482,
+      "relative_error_pct": 13.956976911583707
+    },
+    {
+      "time_step": 50,
+      "insurer_reserve": 279394.46691934235,
+      "model_reserve": 240245.12381875888,
+      "absolute_error": 39149.34310058347,
+      "relative_error_pct": 14.012211312647574
+    },
+    {
+      "time_step": 51,
+      "insurer_reserve": 278970.83093697985,
+      "model_reserve": 239739.17423283233,
+      "absolute_error": 39231.65670414752,
+      "relative_error_pct": 14.06299596713394
+    },
+    {
+      "time_step": 52,
+      "insurer_reserve": 278543.5321494201,
+      "model_reserve": 239231.06169019372,
+      "absolute_error": 39312.4704592264,
+      "relative_error_pct": 14.1135822310668
+    },
+    {
+      "time_step": 53,
+      "insurer_reserve": 278266.84574685036,
+      "model_reserve": 238705.3025287084,
+      "absolute_error": 39561.543218141975,
+      "relative_error_pct": 14.217124254224872
+    },
+    {
+      "time_step": 54,
+      "insurer_reserve": 277821.8513969798,
+      "model_reserve": 238138.57405278002,
+      "absolute_error": 39683.2773441998,
+      "relative_error_pct": 14.283713518090533
+    },
+    {
+      "time_step": 55,
+      "insurer_reserve": 277374.5096807646,
+      "model_reserve": 237520.24090766793,
+      "absolute_error": 39854.26877309664,
+      "relative_error_pct": 14.368396295306896
+    },
+    {
+      "time_step": 56,
+      "insurer_reserve": 276924.77901574585,
+      "model_reserve": 236831.9977362233,
+      "absolute_error": 40092.78127952255,
+      "relative_error_pct": 14.477859808003272
+    },
+    {
+      "time_step": 57,
+      "insurer_reserve": 276472.6171682694,
+      "model_reserve": 236054.87079496775,
+      "absolute_error": 40417.74637330166,
+      "relative_error_pct": 14.619077573495181
+    },
+    {
+      "time_step": 58,
+      "insurer_reserve": 276017.9812432172,
+      "model_reserve": 235169.43540716302,
+      "absolute_error": 40848.54583605417,
+      "relative_error_pct": 14.799233605023684
+    },
+    {
+      "time_step": 59,
+      "insurer_reserve": 275865.59047745407,
+      "model_reserve": 234156.08411727916,
+      "absolute_error": 41709.50636017491,
+      "relative_error_pct": 15.119503047837982
+    },
+    {
+      "time_step": 60,
+      "insurer_reserve": 275370.80354018696,
+      "model_reserve": 232978.33923272515,
+      "absolute_error": 42392.46430746181,
+      "relative_error_pct": 15.394683736424202
+    },
+    {
+      "time_step": 61,
+      "insurer_reserve": 274873.27268905763,
+      "model_reserve": 231647.69987889563,
+      "absolute_error": 43225.572810162004,
+      "relative_error_pct": 15.725636904341615
+    },
+    {
+      "time_step": 62,
+      "insurer_reserve": 274383.9849582385,
+      "model_reserve": 230212.73825755023,
+      "absolute_error": 44171.246700688265,
+      "relative_error_pct": 16.09833267324664
+    },
+    {
+      "time_step": 63,
+      "insurer_reserve": 273879.5347405135,
+      "model_reserve": 228736.63627504502,
+      "absolute_error": 45142.89846546846,
+      "relative_error_pct": 16.48275710276746
+    },
+    {
+      "time_step": 64,
+      "insurer_reserve": 273372.2611124008,
+      "model_reserve": 227283.34715315353,
+      "absolute_error": 46088.913959247264,
+      "relative_error_pct": 16.859396696542365
+    },
+    {
+      "time_step": 65,
+      "insurer_reserve": 272955.7987770956,
+      "model_reserve": 225917.43039764697,
+      "absolute_error": 47038.36837944866,
+      "relative_error_pct": 17.232961743326687
+    },
+    {
+      "time_step": 66,
+      "insurer_reserve": 272426.78034199885,
+      "model_reserve": 224697.20036903664,
+      "absolute_error": 47729.57997296221,
+      "relative_error_pct": 17.52014978595111
+    },
+    {
+      "time_step": 67,
+      "insurer_reserve": 271894.71386114554,
+      "model_reserve": 223697.42653024185,
+      "absolute_error": 48197.287330903695,
+      "relative_error_pct": 17.72645251040727
+    },
+    {
+      "time_step": 68,
+      "insurer_reserve": 271359.54735386994,
+      "model_reserve": 222989.02405243544,
+      "absolute_error": 48370.5233014345,
+      "relative_error_pct": 17.825252058795737
+    },
+    {
+      "time_step": 69,
+      "insurer_reserve": 270821.22805162973,
+      "model_reserve": 222648.6019893323,
+      "absolute_error": 48172.62606229744,
+      "relative_error_pct": 17.787610819456788
+    },
+    {
+      "time_step": 70,
+      "insurer_reserve": 270279.7023859659,
+      "model_reserve": 222761.57489487692,
+      "absolute_error": 47518.12749108899,
+      "relative_error_pct": 17.581093612139608
+    },
+    {
+      "time_step": 71,
+      "insurer_reserve": 269850.3656359327,
+      "model_reserve": 223426.46575851642,
+      "absolute_error": 46423.89987741629,
+      "relative_error_pct": 17.203571234010802
+    },
+    {
+      "time_step": 72,
+      "insurer_reserve": 269263.1567120675,
+      "model_reserve": 224743.80155980698,
+      "absolute_error": 44519.35515226051,
+      "relative_error_pct": 16.53377153260764
+    },
+    {
+      "time_step": 73,
+      "insurer_reserve": 268672.411382363,
+      "model_reserve": 226836.08094611138,
+      "absolute_error": 41836.33043625162,
+      "relative_error_pct": 15.571502195181461
+    },
+    {
+      "time_step": 74,
+      "insurer_reserve": 268070.7647916458,
+      "model_reserve": 229672.67202176267,
+      "absolute_error": 38398.09276988314,
+      "relative_error_pct": 14.323864372053965
+    },
+    {
+      "time_step": 75,
+      "insurer_reserve": 267476.3779064079,
+      "model_reserve": 233179.0151885883,
+      "absolute_error": 34297.36271781963,
+      "relative_error_pct": 12.822576328523692
+    },
+    {
+      "time_step": 76,
+      "insurer_reserve": 266877.10808283987,
+      "model_reserve": 237262.53513210316,
+      "absolute_error": 29614.572950736707,
+      "relative_error_pct": 11.096707830611011
+    },
+    {
+      "time_step": 77,
+      "insurer_reserve": 266272.852769671,
+      "model_reserve": 241800.81764723154,
+      "absolute_error": 24472.03512243947,
+      "relative_error_pct": 9.190585847520872
+    },
+    {
+      "time_step": 78,
+      "insurer_reserve": 265958.263930144,
+      "model_reserve": 246620.00356854868,
+      "absolute_error": 19338.26036159534,
+      "relative_error_pct": 7.271163556201691
+    },
+    {
+      "time_step": 79,
+      "insurer_reserve": 265644.04903775,
+      "model_reserve": 251508.4890721651,
+      "absolute_error": 14135.559965584893,
+      "relative_error_pct": 5.321240967674049
+    },
+    {
+      "time_step": 80,
+      "insurer_reserve": 265330.207645521,
+      "model_reserve": 256181.19167434945,
+      "absolute_error": 9149.015971171524,
+      "relative_error_pct": 3.448162217320742
+    },
+    {
+      "time_step": 81,
+      "insurer_reserve": 265016.739307025,
+      "model_reserve": 260285.00690296185,
+      "absolute_error": 4731.732404063136,
+      "relative_error_pct": 1.7854466161027545
+    },
+    {
+      "time_step": 82,
+      "insurer_reserve": 264703.643576366,
+      "model_reserve": 263407.9985794843,
+      "absolute_error": 1295.6449968817178,
+      "relative_error_pct": 0.4894700274527687
+    },
+    {
+      "time_step": 83,
+      "insurer_reserve": 264390.920008183,
+      "model_reserve": 265106.19595798926,
+      "absolute_error": 715.275949806266,
+      "relative_error_pct": 0.2705372596699342
+    },
+    {
+      "time_step": 84,
+      "insurer_reserve": 264056.609214494,
+      "model_reserve": 264928.2109390328,
+      "absolute_error": 871.6017245387775,
+      "relative_error_pct": 0.3300813894155449
+    },
+    {
+      "time_step": 85,
+      "insurer_reserve": 263722.726629651,
+      "model_reserve": 262648.19844202587,
+      "absolute_error": 1074.5281876251101,
+      "relative_error_pct": 0.40744618461877313
+    },
+    {
+      "time_step": 86,
+      "insurer_reserve": 263389.271699106,
+      "model_reserve": 258551.81853488507,
+      "absolute_error": 4837.453164220904,
+      "relative_error_pct": 1.8366173887853627
+    },
+    {
+      "time_step": 87,
+      "insurer_reserve": 263056.243869038,
+      "model_reserve": 253099.10302808942,
+      "absolute_error": 9957.140840948588,
+      "relative_error_pct": 3.7851756318339778
+    },
+    {
+      "time_step": 88,
+      "insurer_reserve": 262723.642586346,
+      "model_reserve": 246754.773271796,
+      "absolute_error": 15968.869314550015,
+      "relative_error_pct": 6.078200331476346
+    },
+    {
+      "time_step": 89,
+      "insurer_reserve": 262391.467298656,
+      "model_reserve": 239943.29375623568,
+      "absolute_error": 22448.17354242032,
+      "relative_error_pct": 8.555222383382473
+    },
+    {
+      "time_step": 90,
+      "insurer_reserve": 262052.335922401,
+      "model_reserve": 233019.6929014656,
+      "absolute_error": 29032.643020935386,
+      "relative_error_pct": 11.078948378285986
+    },
+    {
+      "time_step": 91,
+      "insurer_reserve": 261713.645427179,
+      "model_reserve": 226284.85932240367,
+      "absolute_error": 35428.786104775325,
+      "relative_error_pct": 13.537233049865286
+    },
+    {
+      "time_step": 92,
+      "insurer_reserve": 261375.395236786,
+      "model_reserve": 219971.75057163602,
+      "absolute_error": 41403.64466514997,
+      "relative_error_pct": 15.84068180084107
+    },
+    {
+      "time_step": 93,
+      "insurer_reserve": 261037.584775773,
+      "model_reserve": 214265.01282755978,
+      "absolute_error": 46772.57194821321,
+      "relative_error_pct": 17.9179454132592
+    },
+    {
+      "time_step": 94,
+      "insurer_reserve": 260700.213469445,
+      "model_reserve": 209316.04058874873,
+      "absolute_error": 51384.17288069628,
+      "relative_error_pct": 19.71006168229267
+    },
+    {
+      "time_step": 95,
+      "insurer_reserve": 260363.280743864,
+      "model_reserve": 205258.69700023634,
+      "absolute_error": 55104.58374362765,
+      "relative_error_pct": 21.164498920966338
+    },
+    {
+      "time_step": 96,
+      "insurer_reserve": 260003.192722879,
+      "model_reserve": 202207.10260638306,
+      "absolute_error": 57796.090116495936,
+      "relative_error_pct": 22.228992463987602
+    },
+    {
+      "time_step": 97,
+      "insurer_reserve": 259643.608992011,
+      "model_reserve": 200273.96983219395,
+      "absolute_error": 59369.639159817045,
+      "relative_error_pct": 22.865819571027377
+    },
+    {
+      "time_step": 98,
+      "insurer_reserve": 259284.528837406,
+      "model_reserve": 199368.9584925943,
+      "absolute_error": 59915.570344811684,
+      "relative_error_pct": 23.108039115740674
+    },
+    {
+      "time_step": 99,
+      "insurer_reserve": 258925.951546227,
+      "model_reserve": 199383.0081959333,
+      "absolute_error": 59542.9433502937,
+      "relative_error_pct": 22.996128041519732
+    },
+    {
+      "time_step": 100,
+      "insurer_reserve": 258567.876406655,
+      "model_reserve": 200231.7580690973,
+      "absolute_error": 58336.11833755771,
+      "relative_error_pct": 22.561239682307363
+    },
+    {
+      "time_step": 101,
+      "insurer_reserve": 258210.302707889,
+      "model_reserve": 201846.06541204551,
+      "absolute_error": 56364.237295843486,
+      "relative_error_pct": 21.828810355258305
+    },
+    {
+      "time_step": 102,
+      "insurer_reserve": 257845.620633464,
+      "model_reserve": 204158.17473234548,
+      "absolute_error": 53687.44590111851,
+      "relative_error_pct": 20.821546539833218
+    },
+    {
+      "time_step": 103,
+      "insurer_reserve": 257481.456632355,
+      "model_reserve": 207112.515388282,
+      "absolute_error": 50368.94124407301,
+      "relative_error_pct": 19.56216261274004
+    },
+    {
+      "time_step": 104,
+      "insurer_reserve": 257117.809964663,
+      "model_reserve": 210640.89673565142,
+      "absolute_error": 46476.91322901158,
+      "relative_error_pct": 18.076115861207413
+    },
+    {
+      "time_step": 105,
+      "insurer_reserve": 256754.679891552,
+      "model_reserve": 214661.05334655996,
+      "absolute_error": 42093.62654499203,
+      "relative_error_pct": 16.394492424742378
+    },
+    {
+      "time_step": 106,
+      "insurer_reserve": 256392.065675246,
+      "model_reserve": 219068.8133671581,
+      "absolute_error": 37323.25230808792,
+      "relative_error_pct": 14.557101137194584
+    },
+    {
+      "time_step": 107,
+      "insurer_reserve": 256029.966579027,
+      "model_reserve": 223729.98184557157,
+      "absolute_error": 32299.984733455436,
+      "relative_error_pct": 12.615704780590839
+    },
+    {
+      "time_step": 108,
+      "insurer_reserve": 255643.074868281,
+      "model_reserve": 228449.9666446209,
+      "absolute_error": 27193.108223660092,
+      "relative_error_pct": 10.637138611195013
+    },
+    {
+      "time_step": 109,
+      "insurer_reserve": 255256.775173351,
+      "model_reserve": 233063.81011919066,
+      "absolute_error": 22192.965054160333,
+      "relative_error_pct": 8.69436865645919
+    },
+    {
+      "time_step": 110,
+      "insurer_reserve": 254871.066578565,
+      "model_reserve": 237467.77040363013,
+      "absolute_error": 17403.29617493486,
+      "relative_error_pct": 6.8282745501715185
+    },
+    {
+      "time_step": 111,
+      "insurer_reserve": 254485.948169682,
+      "model_reserve": 241575.6395191056,
+      "absolute_error": 12910.308650576393,
+      "relative_error_pct": 5.073092932411446
+    },
+    {
+      "time_step": 112,
+      "insurer_reserve": 254101.419033885,
+      "model_reserve": 245294.13618562426,
+      "absolute_error": 8807.282848260744,
+      "relative_error_pct": 3.4660502415715646
+    },
+    {
+      "time_step": 113,
+      "insurer_reserve": 253717.478259782,
+      "model_reserve": 248525.188325463,
+      "absolute_error": 5192.289934318978,
+      "relative_error_pct": 2.046484920917659
+    },
+    {
+      "time_step": 114,
+      "insurer_reserve": 253325.937213023,
+      "model_reserve": 251160.92053160124,
+      "absolute_error": 2165.016681421752,
+      "relative_error_pct": 0.854636799231963
+    },
+    {
+      "time_step": 115,
+      "insurer_reserve": 252935.003938698,
+      "model_reserve": 253111.74121764515,
+      "absolute_error": 176.73727894714102,
+      "relative_error_pct": 0.06987458287504386
+    },
+    {
+      "time_step": 116,
+      "insurer_reserve": 252544.677488367,
+      "model_reserve": 254286.77396936854,
+      "absolute_error": 1742.0964810015575,
+      "relative_error_pct": 0.6898171437732257
+    },
+    {
+      "time_step": 117,
+      "insurer_reserve": 252154.956915075,
+      "model_reserve": 254606.52589129758,
+      "absolute_error": 2451.5689762225957,
+      "relative_error_pct": 0.9722469890006075
+    },
+    {
+      "time_step": 118,
+      "insurer_reserve": 251765.841273355,
+      "model_reserve": 254007.5399403583,
+      "absolute_error": 2241.6986670033075,
+      "relative_error_pct": 0.8903903149313179
+    },
+    {
+      "time_step": 119,
+      "insurer_reserve": 251377.329619219,
+      "model_reserve": 252446.51118693996,
+      "absolute_error": 1069.1815677209524,
+      "relative_error_pct": 0.42532935222938595
+    },
+    {
+      "time_step": 120,
+      "insurer_reserve": 250962.324594986,
+      "model_reserve": 249876.44719112365,
+      "absolute_error": 1085.877403862367,
+      "relative_error_pct": 0.4326854262347161
+    },
+    {
+      "time_step": 121,
+      "insurer_reserve": 250548.013361489,
+      "model_reserve": 246356.65418618376,
+      "absolute_error": 4191.3591753052315,
+      "relative_error_pct": 1.672876635129398
+    },
+    {
+      "time_step": 122,
+      "insurer_reserve": 250134.394746339,
+      "model_reserve": 242044.4249106174,
+      "absolute_error": 8089.969835721597,
+      "relative_error_pct": 3.234249269847765
+    },
+    {
+      "time_step": 123,
+      "insurer_reserve": 249721.46757915,
+      "model_reserve": 237127.27301832417,
+      "absolute_error": 12594.194560825825,
+      "relative_error_pct": 5.043296710898136
+    },
+    {
+      "time_step": 124,
+      "insurer_reserve": 249309.230691529,
+      "model_reserve": 231785.66478044863,
+      "absolute_error": 17523.565911080368,
+      "relative_error_pct": 7.028847613252766
+    },
+    {
+      "time_step": 125,
+      "insurer_reserve": 248897.682917077,
+      "model_reserve": 226186.12855327455,
+      "absolute_error": 22711.554363802454,
+      "relative_error_pct": 9.124855682714033
+    },
+    {
+      "time_step": 126,
+      "insurer_reserve": 248478.025971203,
+      "model_reserve": 220469.4580503614,
+      "absolute_error": 28008.567920841597,
+      "relative_error_pct": 11.272050239198057
+    },
+    {
+      "time_step": 127,
+      "insurer_reserve": 248059.080739556,
+      "model_reserve": 214772.97942900565,
+      "absolute_error": 33286.10131055035,
+      "relative_error_pct": 13.418618343385033
+    },
+    {
+      "time_step": 128,
+      "insurer_reserve": 247640.846008679,
+      "model_reserve": 209206.6317949201,
+      "absolute_error": 38434.21421375888,
+      "relative_error_pct": 15.520143317719038
+    },
+    {
+      "time_step": 129,
+      "insurer_reserve": 247223.320567196,
+      "model_reserve": 203862.76464050962,
+      "absolute_error": 43360.555926686386,
+      "relative_error_pct": 17.53902335233009
+    },
+    {
+      "time_step": 130,
+      "insurer_reserve": 246806.503205804,
+      "model_reserve": 198818.53127965407,
+      "absolute_error": 47987.97192614994,
+      "relative_error_pct": 19.44356056377263
+    },
+    {
+      "time_step": 131,
+      "insurer_reserve": 246390.392717273,
+      "model_reserve": 194138.7172076421,
+      "absolute_error": 52251.675509630906,
+      "relative_error_pct": 21.206864006904862
+    },
+    {
+      "time_step": 132,
+      "insurer_reserve": 245946.032877246,
+      "model_reserve": 189856.41237703853,
+      "absolute_error": 56089.62050020747,
+      "relative_error_pct": 22.80566181289142
+    },
+    {
+      "time_step": 133,
+      "insurer_reserve": 245502.484552187,
+      "model_reserve": 186028.4284562007,
+      "absolute_error": 59474.05609598631,
+      "relative_error_pct": 24.225439593603696
+    },
+    {
+      "time_step": 134,
+      "insurer_reserve": 245059.746244032,
+      "model_reserve": 182625.56644111316,
+      "absolute_error": 62434.179802918836,
+      "relative_error_pct": 25.477125786601647
+    },
+    {
+      "time_step": 135,
+      "insurer_reserve": 244617.816457508,
+      "model_reserve": 179609.3388905242,
+      "absolute_error": 65008.47756698378,
+      "relative_error_pct": 26.57552851563298
+    },
+    {
+      "time_step": 136,
+      "insurer_reserve": 244176.693700125,
+      "model_reserve": 176947.28554145957,
+      "absolute_error": 67229.40815866544,
+      "relative_error_pct": 27.533097913607723
+    },
+    {
+      "time_step": 137,
+      "insurer_reserve": 243736.376482176,
+      "model_reserve": 174611.93458849718,
+      "absolute_error": 69124.44189367883,
+      "relative_error_pct": 28.360330489582775
+    },
+    {
+      "time_step": 138,
+      "insurer_reserve": 243287.427219055,
+      "model_reserve": 172573.28710211595,
+      "absolute_error": 70714.14011693906,
+      "relative_error_pct": 29.066088998207185
+    },
+    {
+      "time_step": 139,
+      "insurer_reserve": 242839.309744218,
+      "model_reserve": 170818.37277719186,
+      "absolute_error": 72020.93696702612,
+      "relative_error_pct": 29.65785771788167
+    },
+    {
+      "time_step": 140,
+      "insurer_reserve": 242392.022508358,
+      "model_reserve": 169330.34547060163,
+      "absolute_error": 73061.67703775637,
+      "relative_error_pct": 30.141947858550957
+    },
+    {
+      "time_step": 141,
+      "insurer_reserve": 241945.563965068,
+      "model_reserve": 168094.91266769706,
+      "absolute_error": 73850.65129737093,
+      "relative_error_pct": 30.523664119765993
+    },
+    {
+      "time_step": 142,
+      "insurer_reserve": 241499.932570836,
+      "model_reserve": 167099.98393946438,
+      "absolute_error": 74399.94863137163,
+      "relative_error_pct": 30.807440747234523
+    },
+    {
+      "time_step": 143,
+      "insurer_reserve": 241055.126785039,
+      "model_reserve": 166335.38126155318,
+      "absolute_error": 74719.74552348582,
+      "relative_error_pct": 30.996953485298484
+    },
+    {
+      "time_step": 144,
+      "insurer_reserve": 240580.270294542,
+      "model_reserve": 165771.32428877655,
+      "absolute_error": 74808.94600576544,
+      "relative_error_pct": 31.095212385528114
+    },
+    {
+      "time_step": 145,
+      "insurer_reserve": 240106.361048668,
+      "model_reserve": 165421.57003854253,
+      "absolute_error": 74684.79101012548,
+      "relative_error_pct": 31.104878139812115
+    },
+    {
+      "time_step": 146,
+      "insurer_reserve": 239633.397137391,
+      "model_reserve": 165277.39511500753,
+      "absolute_error": 74356.00202238347,
+      "relative_error_pct": 31.029064775871923
+    },
+    {
+      "time_step": 147,
+      "insurer_reserve": 239161.37665457,
+      "model_reserve": 165330.5113986943,
+      "absolute_error": 73830.86525587569,
+      "relative_error_pct": 30.870731005413326
+    },
+    {
+      "time_step": 148,
+      "insurer_reserve": 238690.297697943,
+      "model_reserve": 165573.42772111538,
+      "absolute_error": 73116.86997682761,
+      "relative_error_pct": 30.632527036920166
+    },
+    {
+      "time_step": 149,
+      "insurer_reserve": 238220.158369118,
+      "model_reserve": 165999.25972760058,
+      "absolute_error": 72220.89864151741,
+      "relative_error_pct": 30.31687122364027
+    },
+    {
+      "time_step": 150,
+      "insurer_reserve": 237740.853464968,
+      "model_reserve": 166594.47002471433,
+      "absolute_error": 71146.38344025367,
+      "relative_error_pct": 29.926023400407015
+    },
+    {
+      "time_step": 151,
+      "insurer_reserve": 237262.518590185,
+      "model_reserve": 167359.8635746971,
+      "absolute_error": 69902.6550154879,
+      "relative_error_pct": 29.462156699191173
+    },
+    {
+      "time_step": 152,
+      "insurer_reserve": 236785.151771124,
+      "model_reserve": 168289.2942030304,
+      "absolute_error": 68495.85756809358,
+      "relative_error_pct": 28.92742938303054
+    },
+    {
+      "time_step": 153,
+      "insurer_reserve": 236308.751038178,
+      "model_reserve": 169376.52328305334,
+      "absolute_error": 66932.22775512465,
+      "relative_error_pct": 28.32405802200321
+    },
+    {
+      "time_step": 154,
+      "insurer_reserve": 235833.314425764,
+      "model_reserve": 170615.04251416877,
+      "absolute_error": 65218.27191159522,
+      "relative_error_pct": 27.654393133725275
+    },
+    {
+      "time_step": 155,
+      "insurer_reserve": 235358.839972319,
+      "model_reserve": 171997.89088491412,
+      "absolute_error": 63360.94908740488,
+      "relative_error_pct": 26.92099820633756
+    },
+    {
+      "time_step": 156,
+      "insurer_reserve": 234852.481389138,
+      "model_reserve": 173493.20110972412,
+      "absolute_error": 61359.280279413884,
+      "relative_error_pct": 26.1267327968934
+    },
+    {
+      "time_step": 157,
+      "insurer_reserve": 234347.225977069,
+      "model_reserve": 175116.39543547874,
+      "absolute_error": 59230.83054159026,
+      "relative_error_pct": 25.274816159925884
+    },
+    {
+      "time_step": 158,
+      "insurer_reserve": 233843.071306646,
+      "model_reserve": 176858.22321824782,
+      "absolute_error": 56984.84808839817,
+      "relative_error_pct": 24.368841792054678
+    },
+    {
+      "time_step": 159,
+      "insurer_reserve": 233340.0149538,
+      "model_reserve": 178708.26949331877,
+      "absolute_error": 54631.74546048124,
+      "relative_error_pct": 23.412934755874602
+    },
+    {
+      "time_step": 160,
+      "insurer_reserve": 232838.05449985,
+      "model_reserve": 180654.68740135198,
+      "absolute_error": 52183.36709849801,
+      "relative_error_pct": 22.411872153197205
+    },
+    {
+      "time_step": 161,
+      "insurer_reserve": 232337.187531489,
+      "model_reserve": 182683.9809244523,
+      "absolute_error": 49653.2066070367,
+      "relative_error_pct": 21.37118346597319
+    },
+    {
+      "time_step": 162,
+      "insurer_reserve": 231826.615323531,
+      "model_reserve": 184772.18401117725,
+      "absolute_error": 47054.43131235376,
+      "relative_error_pct": 20.297251567377568
+    },
+    {
+      "time_step": 163,
+      "insurer_reserve": 231317.171705977,
+      "model_reserve": 186910.2617214079,
+      "absolute_error": 44406.909984569094,
+      "relative_error_pct": 19.19741178619195
+    },
+    {
+      "time_step": 164,
+      "insurer_reserve": 230808.854170821,
+      "model_reserve": 189078.50820256723,
+      "absolute_error": 41730.345968253765,
+      "relative_error_pct": 18.08004555031899
+    },
+    {
+      "time_step": 165,
+      "insurer_reserve": 230301.660215658,
+      "model_reserve": 191254.78708223847,
+      "absolute_error": 39046.87313341952,
+      "relative_error_pct": 16.95466419862342
+    },
+    {
+      "time_step": 166,
+      "insurer_reserve": 229795.587343671,
+      "model_reserve": 193414.40149341399,
+      "absolute_error": 36381.185850257025,
+      "relative_error_pct": 15.831977572244288
+    },
+    {
+      "time_step": 167,
+      "insurer_reserve": 229290.633063617,
+      "model_reserve": 195530.01544398404,
+      "absolute_error": 33760.61761963295,
+      "relative_error_pct": 14.72394103873664
+    },
+    {
+      "time_step": 168,
+      "insurer_reserve": 228751.944804018,
+      "model_reserve": 197541.54700502424,
+      "absolute_error": 31210.39779899377,
+      "relative_error_pct": 13.643773750528377
+    },
+    {
+      "time_step": 169,
+      "insurer_reserve": 228214.538134918,
+      "model_reserve": 199450.07569089087,
+      "absolute_error": 28764.46244402713,
+      "relative_error_pct": 12.604132356818514
+    },
+    {
+      "time_step": 170,
+      "insurer_reserve": 227678.409974186,
+      "model_reserve": 201242.1220145663,
+      "absolute_error": 26436.287959619716,
+      "relative_error_pct": 11.611240592648658
+    },
+    {
+      "time_step": 171,
+      "insurer_reserve": 227143.557247173,
+      "model_reserve": 202908.30669061883,
+      "absolute_error": 24235.25055655418,
+      "relative_error_pct": 10.669574277284859
+    },
+    {
+      "time_step": 172,
+      "insurer_reserve": 226609.976886693,
+      "model_reserve": 204439.51766392673,
+      "absolute_error": 22170.45922276628,
+      "relative_error_pct": 9.783531831809729
+    },
+    {
+      "time_step": 173,
+      "insurer_reserve": 226077.665833,
+      "model_reserve": 205826.99618320013,
+      "absolute_error": 20250.66964979988,
+      "relative_error_pct": 8.957395050583514
+    },
+    {
+      "time_step": 174,
+      "insurer_reserve": 225535.108906373,
+      "model_reserve": 207051.8541914676,
+      "absolute_error": 18483.2547149054,
+      "relative_error_pct": 8.195289329688533
+    },
+    {
+      "time_step": 175,
+      "insurer_reserve": 224993.861688862,
+      "model_reserve": 208116.74816441556,
+      "absolute_error": 16877.11352444644,
+      "relative_error_pct": 7.501143985779198
+    },
+    {
+      "time_step": 176,
+      "insurer_reserve": 224453.921001989,
+      "model_reserve": 209014.51388768904,
+      "absolute_error": 15439.407114299946,
+      "relative_error_pct": 6.87865333132814
+    },
+    {
+      "time_step": 177,
+      "insurer_reserve": 223915.283675025,
+      "model_reserve": 209738.67148854482,
+      "absolute_error": 14176.612186480197,
+      "relative_error_pct": 6.331239187341557
+    },
+    {
+      "time_step": 178,
+      "insurer_reserve": 223377.946544971,
+      "model_reserve": 210283.49666812774,
+      "absolute_error": 13094.449876843253,
+      "relative_error_pct": 5.862015511995517
+    },
+    {
+      "time_step": 179,
+      "insurer_reserve": 222841.906456544,
+      "model_reserve": 210644.08467551693,
+      "absolute_error": 12197.821781027073,
+      "relative_error_pct": 5.473755800687223
+    },
+    {
+      "time_step": 180,
+      "insurer_reserve": 222270.285077636,
+      "model_reserve": 210781.43661380815,
+      "absolute_error": 11488.84846382786,
+      "relative_error_pct": 5.168863872116311
+    },
+    {
+      "time_step": 181,
+      "insurer_reserve": 221700.148554965,
+      "model_reserve": 210732.34534537967,
+      "absolute_error": 10967.803209585341,
+      "relative_error_pct": 4.947133901836854
+    },
+    {
+      "time_step": 182,
+      "insurer_reserve": 221131.492989494,
+      "model_reserve": 210519.52040135974,
+      "absolute_error": 10611.97258813426,
+      "relative_error_pct": 4.7989422242260344
+    },
+    {
+      "time_step": 183,
+      "insurer_reserve": 220564.314492525,
+      "model_reserve": 210171.97405239826,
+      "absolute_error": 10392.340440126747,
+      "relative_error_pct": 4.711705274734706
+    },
+    {
+      "time_step": 184,
+      "insurer_reserve": 219998.609185657,
+      "model_reserve": 209719.8262577339,
+      "absolute_error": 10278.782927923108,
+      "relative_error_pct": 4.672203595273112
+    },
+    {
+      "time_step": 185,
+      "insurer_reserve": 219434.373200771,
+      "model_reserve": 209194.00240751373,
+      "absolute_error": 10240.370793257258,
+      "relative_error_pct": 4.6667122583788885
+    },
+    {
+      "time_step": 186,
+      "insurer_reserve": 218859.356173912,
+      "model_reserve": 208614.3260745622,
+      "absolute_error": 10245.030099349795,
+      "relative_error_pct": 4.681102182905444
+    },
+    {
+      "time_step": 187,
+      "insurer_reserve": 218285.854800342,
+      "model_reserve": 208024.4361271047,
+      "absolute_error": 10261.418673237291,
+      "relative_error_pct": 4.700908669791285
+    },
+    {
+      "time_step": 188,
+      "insurer_reserve": 217713.865063663,
+      "model_reserve": 207456.57178577702,
+      "absolute_error": 10257.293277885969,
+      "relative_error_pct": 4.711364283063264
+    },
+    {
+      "time_step": 189,
+      "insurer_reserve": 217143.382958176,
+      "model_reserve": 206943.30341531892,
+      "absolute_error": 10200.079542857071,
+      "relative_error_pct": 4.697393677808598
+    },
+    {
+      "time_step": 190,
+      "insurer_reserve": 216574.404488845,
+      "model_reserve": 206517.6245685676,
+      "absolute_error": 10056.77992027739,
+      "relative_error_pct": 4.643568081839228
+    },
+    {
+      "time_step": 191,
+      "insurer_reserve": 216006.92567127,
+      "model_reserve": 206213.1353186263,
+      "absolute_error": 9793.7903526437,
+      "relative_error_pct": 4.534016824788467
+    },
+    {
+      "time_step": 192,
+      "insurer_reserve": 215402.043469672,
+      "model_reserve": 206027.1164247869,
+      "absolute_error": 9374.927044885117,
+      "relative_error_pct": 4.35229252883345
+    },
+    {
+      "time_step": 193,
+      "insurer_reserve": 214798.876576922,
+      "model_reserve": 206016.7708679269,
+      "absolute_error": 8782.105708995077,
+      "relative_error_pct": 4.088524972266371
+    },
+    {
+      "time_step": 194,
+      "insurer_reserve": 214197.420075822,
+      "model_reserve": 206139.60406696802,
+      "absolute_error": 8057.816008853988,
+      "relative_error_pct": 3.7618641746486334
+    },
+    {
+      "time_step": 195,
+      "insurer_reserve": 213597.669063395,
+      "model_reserve": 206336.16910451377,
+      "absolute_error": 7261.499958881235,
+      "relative_error_pct": 3.399615731165141
+    },
+    {
+      "time_step": 196,
+      "insurer_reserve": 212999.61865085,
+      "model_reserve": 206545.1233826278,
+      "absolute_error": 6454.4952682222065,
+      "relative_error_pct": 3.030284893984926
+    },
+    {
+      "time_step": 197,
+      "insurer_reserve": 212403.263963536,
+      "model_reserve": 206703.0038828946,
+      "absolute_error": 5700.2600806413975,
+      "relative_error_pct": 2.683697027188801
+    },
+    {
+      "time_step": 198,
+      "insurer_reserve": 211795.605758836,
+      "model_reserve": 206731.63361398858,
+      "absolute_error": 5063.972144847416,
+      "relative_error_pct": 2.3909712983439224
+    },
+    {
+      "time_step": 199,
+      "insurer_reserve": 211189.696200389,
+      "model_reserve": 206576.6154832117,
+      "absolute_error": 4613.080717177305,
+      "relative_error_pct": 2.184330391194913
+    },
+    {
+      "time_step": 200,
+      "insurer_reserve": 210585.530229196,
+      "model_reserve": 206170.1181149535,
+      "absolute_error": 4415.412114242499,
+      "relative_error_pct": 2.0967310096932468
+    },
+    {
+      "time_step": 201,
+      "insurer_reserve": 209983.102800964,
+      "model_reserve": 205444.72595101083,
+      "absolute_error": 4538.3768499531725,
+      "relative_error_pct": 2.161305738135963
+    },
+    {
+      "time_step": 202,
+      "insurer_reserve": 209382.408886065,
+      "model_reserve": 204335.00136676675,
+      "absolute_error": 5047.407519298256,
+      "relative_error_pct": 2.4106167973474757
+    },
+    {
+      "time_step": 203,
+      "insurer_reserve": 208783.443469491,
+      "model_reserve": 202779.38212422308,
+      "absolute_error": 6004.0613452679245,
+      "relative_error_pct": 2.875736334976812
+    },
+    {
+      "time_step": 204,
+      "insurer_reserve": 208145.303674165,
+      "model_reserve": 200682.9086580548,
+      "absolute_error": 7462.395016110211,
+      "relative_error_pct": 3.585185389429684
+    },
+    {
+      "time_step": 205,
+      "insurer_reserve": 207509.139066318,
+      "model_reserve": 198064.49567337905,
+      "absolute_error": 9444.643392938946,
+      "relative_error_pct": 4.551434908088807
+    },
+    {
+      "time_step": 206,
+      "insurer_reserve": 206874.9434656,
+      "model_reserve": 195012.128337799,
+      "absolute_error": 11862.815127801005,
+      "relative_error_pct": 5.734292867504083
+    },
+    {
+      "time_step": 207,
+      "insurer_reserve": 206242.71071118,
+      "model_reserve": 191638.75881430323,
+      "absolute_error": 14603.951896876766,
+      "relative_error_pct": 7.080954205129691
+    },
+    {
+      "time_step": 208,
+      "insurer_reserve": 205612.434661678,
+      "model_reserve": 188052.71086691777,
+      "absolute_error": 17559.72379476024,
+      "relative_error_pct": 8.540205179542586
+    },
+    {
+      "time_step": 209,
+      "insurer_reserve": 204984.109195109,
+      "model_reserve": 184355.39059990254,
+      "absolute_error": 20628.718595206446,
+      "relative_error_pct": 10.063569647524002
+    },
+    {
+      "time_step": 210,
+      "insurer_reserve": 204343.978738032,
+      "model_reserve": 180627.81583427565,
+      "absolute_error": 23716.16290375634,
+      "relative_error_pct": 11.606000357935844
+    },
+    {
+      "time_step": 211,
+      "insurer_reserve": 203705.859051755,
+      "model_reserve": 176967.0948409539,
+      "absolute_error": 26738.764210801077,
+      "relative_error_pct": 13.126163545451892
+    },
+    {
+      "time_step": 212,
+      "insurer_reserve": 203069.743786192,
+      "model_reserve": 173449.22091546305,
+      "absolute_error": 29620.52287072895,
+      "relative_error_pct": 14.58637920079113
+    },
+    {
+      "time_step": 213,
+      "insurer_reserve": 202435.626611412,
+      "model_reserve": 170142.52681169438,
+      "absolute_error": 32293.09979971763,
+      "relative_error_pct": 15.952280900489063
+    },
+    {
+      "time_step": 214,
+      "insurer_reserve": 201803.501217566,
+      "model_reserve": 167108.93591943447,
+      "absolute_error": 34694.56529813152,
+      "relative_error_pct": 17.19225141724723
+    },
+    {
+      "time_step": 215,
+      "insurer_reserve": 201173.361314831,
+      "model_reserve": 164405.55673971807,
+      "absolute_error": 36767.80457511294,
+      "relative_error_pct": 18.27667656135262
+    },
+    {
+      "time_step": 216,
+      "insurer_reserve": 200502.357058643,
+      "model_reserve": 162051.935802276,
+      "absolute_error": 38450.421256367,
+      "relative_error_pct": 19.177042016080144
+    },
+    {
+      "time_step": 217,
+      "insurer_reserve": 199833.619311132,
+      "model_reserve": 160118.30295949557,
+      "absolute_error": 39715.31635163643,
+      "relative_error_pct": 19.874191584250624
+    },
+    {
+      "time_step": 218,
+      "insurer_reserve": 199167.140332844,
+      "model_reserve": 158567.50251924316,
+      "absolute_error": 40599.63781360083,
+      "relative_error_pct": 20.384706907852145
+    },
+    {
+      "time_step": 219,
+      "insurer_reserve": 198502.912410997,
+      "model_reserve": 157349.23784212218,
+      "absolute_error": 41153.67456887482,
+      "relative_error_pct": 20.732025575356204
+    },
+    {
+      "time_step": 220,
+      "insurer_reserve": 197840.927859388,
+      "model_reserve": 156417.58350314878,
+      "absolute_error": 41423.34435623922,
+      "relative_error_pct": 20.937702225941916
+    },
+    {
+      "time_step": 221,
+      "insurer_reserve": 197181.179018299,
+      "model_reserve": 155729.65656833953,
+      "absolute_error": 41451.52244995948,
+      "relative_error_pct": 21.022048177383425
+    },
+    {
+      "time_step": 222,
+      "insurer_reserve": 196509.154150268,
+      "model_reserve": 155233.06977436712,
+      "absolute_error": 41276.084375900886,
+      "relative_error_pct": 21.004662380429156
+    },
+    {
+      "time_step": 223,
+      "insurer_reserve": 195839.433122857,
+      "model_reserve": 154899.44817560446,
+      "absolute_error": 40939.98494725255,
+      "relative_error_pct": 20.90487308629486
+    },
+    {
+      "time_step": 224,
+      "insurer_reserve": 195172.00799561,
+      "model_reserve": 154689.23173015547,
+      "absolute_error": 40482.77626545454,
+      "relative_error_pct": 20.74210163701606
+    },
+    {
+      "time_step": 225,
+      "insurer_reserve": 194506.870855576,
+      "model_reserve": 154562.64130707903,
+      "absolute_error": 39944.22954849698,
+      "relative_error_pct": 20.536153490514025
+    },
+    {
+      "time_step": 226,
+      "insurer_reserve": 193844.013817205,
+      "model_reserve": 154479.263690781,
+      "absolute_error": 39364.75012642401,
+      "relative_error_pct": 20.307436557491528
+    },
+    {
+      "time_step": 227,
+      "insurer_reserve": 193183.429022258,
+      "model_reserve": 154397.79307065884,
+      "absolute_error": 38785.635951599164,
+      "relative_error_pct": 20.07710296266167
+    },
+    {
+      "time_step": 228,
+      "insurer_reserve": 192480.403588016,
+      "model_reserve": 154240.11501841992,
+      "absolute_error": 38240.28856959607,
+      "relative_error_pct": 19.86710743367173
+    },
+    {
+      "time_step": 229,
+      "insurer_reserve": 191779.969075977,
+      "model_reserve": 154007.60227451814,
+      "absolute_error": 37772.36680145885,
+      "relative_error_pct": 19.695678846675936
+    },
+    {
+      "time_step": 230,
+      "insurer_reserve": 191082.115833018,
+      "model_reserve": 153699.86774316826,
+      "absolute_error": 37382.248089849745,
+      "relative_error_pct": 19.563446807610806
+    },
+    {
+      "time_step": 231,
+      "insurer_reserve": 190386.834242313,
+      "model_reserve": 153325.39673342564,
+      "absolute_error": 37061.43750888735,
+      "relative_error_pct": 19.466386767961993
+    },
+    {
+      "time_step": 232,
+      "insurer_reserve": 189694.114723195,
+      "model_reserve": 152892.94778183647,
+      "absolute_error": 36801.16694135853,
+      "relative_error_pct": 19.400268160696204
+    },
+    {
+      "time_step": 233,
+      "insurer_reserve": 189003.94773102,
+      "model_reserve": 152411.49485779306,
+      "absolute_error": 36592.452873226925,
+      "relative_error_pct": 19.360681780733643
+    },
+    {
+      "time_step": 234,
+      "insurer_reserve": 188301.07436459,
+      "model_reserve": 151877.8761566616,
+      "absolute_error": 36423.19820792839,
+      "relative_error_pct": 19.343064467813665
+    },
+    {
+      "time_step": 235,
+      "insurer_reserve": 187600.830248676,
+      "model_reserve": 151313.72582362723,
+      "absolute_error": 36287.104425048776,
+      "relative_error_pct": 19.342720592946243
+    },
+    {
+      "time_step": 236,
+      "insurer_reserve": 186903.205495109,
+      "model_reserve": 150728.38926862122,
+      "absolute_error": 36174.816226487776,
+      "relative_error_pct": 19.354839918694932
+    },
+    {
+      "time_step": 237,
+      "insurer_reserve": 186208.190253093,
+      "model_reserve": 150131.26308666257,
+      "absolute_error": 36076.927166430425,
+      "relative_error_pct": 19.374511463429666
+    },
+    {
+      "time_step": 238,
+      "insurer_reserve": 185515.774709055,
+      "model_reserve": 149531.77512222188,
+      "absolute_error": 35983.99958683312,
+      "relative_error_pct": 19.39673305047344
+    },
+    {
+      "time_step": 239,
+      "insurer_reserve": 184825.949086509,
+      "model_reserve": 148939.37345477834,
+      "absolute_error": 35886.575631730666,
+      "relative_error_pct": 19.416416260323768
+    },
+    {
+      "time_step": 240,
+      "insurer_reserve": 184092.256343326,
+      "model_reserve": 148326.10121526688,
+      "absolute_error": 35766.15512805912,
+      "relative_error_pct": 19.4283865266752
+    },
+    {
+      "time_step": 241,
+      "insurer_reserve": 183361.513130054,
+      "model_reserve": 147737.24914566096,
+      "absolute_error": 35624.26398439304,
+      "relative_error_pct": 19.428430413925295
+    },
+    {
+      "time_step": 242,
+      "insurer_reserve": 182633.707459111,
+      "model_reserve": 147172.66526516087,
+      "absolute_error": 35461.042193950125,
+      "relative_error_pct": 19.41648268947797
+    },
+    {
+      "time_step": 243,
+      "insurer_reserve": 181908.827392085,
+      "model_reserve": 146630.27708650802,
+      "absolute_error": 35278.550305576966,
+      "relative_error_pct": 19.393534008955942
+    },
+    {
+      "time_step": 244,
+      "insurer_reserve": 181186.861039535,
+      "model_reserve": 146108.01545835263,
+      "absolute_error": 35078.845581182366,
+      "relative_error_pct": 19.360590155335906
+    },
+    {
+      "time_step": 245,
+      "insurer_reserve": 180467.796560784,
+      "model_reserve": 145603.81101019122,
+      "absolute_error": 34863.98555059277,
+      "relative_error_pct": 19.318674142979358
+    },
+    {
+      "time_step": 246,
+      "insurer_reserve": 179735.647288306,
+      "model_reserve": 145102.6942674552,
+      "absolute_error": 34632.95302085081,
+      "relative_error_pct": 19.26882816144847
+    },
+    {
+      "time_step": 247,
+      "insurer_reserve": 179006.485803632,
+      "model_reserve": 144615.55326546953,
+      "absolute_error": 34390.93253816248,
+      "relative_error_pct": 19.21211535088674
+    },
+    {
+      "time_step": 248,
+      "insurer_reserve": 178280.299848408,
+      "model_reserve": 144140.297399172,
+      "absolute_error": 34140.002449235995,
+      "relative_error_pct": 19.149621398587108
+    },
+    {
+      "time_step": 249,
+      "insurer_reserve": 177557.077214818,
+      "model_reserve": 143674.82617715487,
+      "absolute_error": 33882.25103766314,
+      "relative_error_pct": 19.08245594551581
+    },
+    {
+      "time_step": 250,
+      "insurer_reserve": 176836.805745376,
+      "model_reserve": 143217.02762774707,
+      "absolute_error": 33619.77811762894,
+      "relative_error_pct": 19.01175378955749
+    },
+    {
+      "time_step": 251,
+      "insurer_reserve": 176119.473332716,
+      "model_reserve": 142764.77713139413,
+      "absolute_error": 33354.69620132187,
+      "relative_error_pct": 18.938675871639628
+    },
+    {
+      "time_step": 252,
+      "insurer_reserve": 175357.03613893,
+      "model_reserve": 142276.96582657017,
+      "absolute_error": 33080.070312359836,
+      "relative_error_pct": 18.86441002923402
+    },
+    {
+      "time_step": 253,
+      "insurer_reserve": 174597.941614965,
+      "model_reserve": 141790.8497720213,
+      "absolute_error": 32807.091842943715,
+      "relative_error_pct": 18.7900793901065
+    },
+    {
+      "time_step": 254,
+      "insurer_reserve": 173842.174944718,
+      "model_reserve": 141305.07012901065,
+      "absolute_error": 32537.10481570734,
+      "relative_error_pct": 18.71646211631566
+    },
+    {
+      "time_step": 255,
+      "insurer_reserve": 173089.721378369,
+      "model_reserve": 140818.42285983323,
+      "absolute_error": 32271.29851853577,
+      "relative_error_pct": 18.64426048037345
+    },
+    {
+      "time_step": 256,
+      "insurer_reserve": 172340.566232082,
+      "model_reserve": 140329.69881815,
+      "absolute_error": 32010.867413931992,
+      "relative_error_pct": 18.574191853834712
+    },
+    {
+      "time_step": 257,
+      "insurer_reserve": 171594.694887705,
+      "model_reserve": 139837.68438893926,
+      "absolute_error": 31757.01049876574,
+      "relative_error_pct": 18.50698852872355
+    },
+    {
+      "time_step": 258,
+      "insurer_reserve": 170835.423837182,
+      "model_reserve": 139327.56765759198,
+      "absolute_error": 31507.856179590017,
+      "relative_error_pct": 18.44339743589666
+    },
+    {
+      "time_step": 259,
+      "insurer_reserve": 170079.532202068,
+      "model_reserve": 138811.80527589866,
+      "absolute_error": 31267.72692616933,
+      "relative_error_pct": 18.3841797548107
+    },
+    {
+      "time_step": 260,
+      "insurer_reserve": 169327.00485991,
+      "model_reserve": 138289.17791622513,
+      "absolute_error": 31037.826943684864,
+      "relative_error_pct": 18.330110409360582
+    },
+    {
+      "time_step": 261,
+      "insurer_reserve": 168577.826756258,
+      "model_reserve": 137758.46649213036,
+      "absolute_error": 30819.360264127637,
+      "relative_error_pct": 18.28197744457134
+    },
+    {
+      "time_step": 262,
+      "insurer_reserve": 167831.982904357,
+      "model_reserve": 137218.4536500568,
+      "absolute_error": 30613.5292543002,
+      "relative_error_pct": 18.24058127928217
+    },
+    {
+      "time_step": 263,
+      "insurer_reserve": 167089.458384838,
+      "model_reserve": 136667.9254387431,
+      "absolute_error": 30421.5329460949,
+      "relative_error_pct": 18.20673382998733
+    },
+    {
+      "time_step": 264,
+      "insurer_reserve": 166300.820679991,
+      "model_reserve": 136065.24024461236,
+      "absolute_error": 30235.58043537865,
+      "relative_error_pct": 18.181257501765614
+    },
+    {
+      "time_step": 265,
+      "insurer_reserve": 165515.95265426,
+      "model_reserve": 135451.35420380806,
+      "absolute_error": 30064.598450451944,
+      "relative_error_pct": 18.164169657563306
+    },
+    {
+      "time_step": 266,
+      "insurer_reserve": 164734.836089931,
+      "model_reserve": 134831.8215589941,
+      "absolute_error": 29903.014530936896,
+      "relative_error_pct": 18.15221069246849
+    },
+    {
+      "time_step": 267,
+      "insurer_reserve": 163957.45285815,
+      "model_reserve": 134213.53777699303,
+      "absolute_error": 29743.91508115697,
+      "relative_error_pct": 18.141240036761438
+    },
+    {
+      "time_step": 268,
+      "insurer_reserve": 163183.784918489,
+      "model_reserve": 133603.3858966091,
+      "absolute_error": 29580.399021879886,
+      "relative_error_pct": 18.1270455496883
+    },
+    {
+      "time_step": 269,
+      "insurer_reserve": 162413.814318513,
+      "model_reserve": 133008.23682377118,
+      "absolute_error": 29405.577494741825,
+      "relative_error_pct": 18.105342589315683
+    },
+    {
+      "time_step": 270,
+      "insurer_reserve": 161630.204613431,
+      "model_reserve": 132420.76618831497,
+      "absolute_error": 29209.438425116037,
+      "relative_error_pct": 18.071769750570997
+    },
+    {
+      "time_step": 271,
+      "insurer_reserve": 160850.397940199,
+      "model_reserve": 131862.1304760928,
+      "absolute_error": 28988.267464106204,
+      "relative_error_pct": 18.021881099034314
+    },
+    {
+      "time_step": 272,
+      "insurer_reserve": 160074.375742157,
+      "model_reserve": 131339.2089210596,
+      "absolute_error": 28735.166821097402,
+      "relative_error_pct": 17.95113470714585
+    },
+    {
+      "time_step": 273,
+      "insurer_reserve": 159302.119553636,
+      "model_reserve": 130858.92162132116,
+      "absolute_error": 28443.19793231484,
+      "relative_error_pct": 17.854877268433455
+    },
+    {
+      "time_step": 274,
+      "insurer_reserve": 158533.610999507,
+      "model_reserve": 130428.25796679761,
+      "absolute_error": 28105.353032709376,
+      "relative_error_pct": 17.728324520909812
+    },
+    {
+      "time_step": 275,
+      "insurer_reserve": 157768.831794737,
+      "model_reserve": 130054.31134318082,
+      "absolute_error": 27714.520451556178,
+      "relative_error_pct": 17.56653715203633
+    },
+    {
+      "time_step": 276,
+      "insurer_reserve": 156957.201471255,
+      "model_reserve": 129702.53807563917,
+      "absolute_error": 27254.66339561582,
+      "relative_error_pct": 17.364391783327772
+    },
+    {
+      "time_step": 277,
+      "insurer_reserve": 156149.799776328,
+      "model_reserve": 129416.68178673522,
+      "absolute_error": 26733.117989592778,
+      "relative_error_pct": 17.120174363262596
+    },
+    {
+      "time_step": 278,
+      "insurer_reserve": 155346.60443505,
+      "model_reserve": 129175.85442282117,
+      "absolute_error": 26170.75001222882,
+      "relative_error_pct": 16.84668300759077
+    },
+    {
+      "time_step": 279,
+      "insurer_reserve": 154547.593290946,
+      "model_reserve": 128953.24977568786,
+      "absolute_error": 25594.34351525815,
+      "relative_error_pct": 16.560816619819576
+    },
+    {
+      "time_step": 280,
+      "insurer_reserve": 153752.744305347,
+      "model_reserve": 128721.68707933777,
+      "absolute_error": 25031.05722600923,
+      "relative_error_pct": 16.280071838131565
+    },
+    {
+      "time_step": 281,
+      "insurer_reserve": 152962.035556753,
+      "model_reserve": 128453.60185547239,
+      "absolute_error": 24508.433701280606,
+      "relative_error_pct": 16.02255985419815
+    },
+    {
+      "time_step": 282,
+      "insurer_reserve": 152157.535863731,
+      "model_reserve": 128106.04447307567,
+      "absolute_error": 24051.491390655327,
+      "relative_error_pct": 15.80696693997156
+    },
+    {
+      "time_step": 283,
+      "insurer_reserve": 151357.29238002,
+      "model_reserve": 127666.16194644965,
+      "absolute_error": 23691.130433570346,
+      "relative_error_pct": 15.652453912883097
+    },
+    {
+      "time_step": 284,
+      "insurer_reserve": 150561.282466283,
+      "model_reserve": 127106.10731457108,
+      "absolute_error": 23455.175151711926,
+      "relative_error_pct": 15.578490543851819
+    },
+    {
+      "time_step": 285,
+      "insurer_reserve": 149769.483604192,
+      "model_reserve": 126398.52107992377,
+      "absolute_error": 23370.962524268238,
+      "relative_error_pct": 15.604622491743767
+    },
+    {
+      "time_step": 286,
+      "insurer_reserve": 148981.873395787,
+      "model_reserve": 125516.97389595148,
+      "absolute_error": 23464.89949983552,
+      "relative_error_pct": 15.75017078587701
+    },
+    {
+      "time_step": 287,
+      "insurer_reserve": 148198.429562822,
+      "model_reserve": 124436.4902149942,
+      "absolute_error": 23761.939347827807,
+      "relative_error_pct": 16.03386717249592
+    },
+    {
+      "time_step": 288,
+      "insurer_reserve": 147367.70756961,
+      "model_reserve": 123091.18744673637,
+      "absolute_error": 24276.52012287364,
+      "relative_error_pct": 16.473432696512894
+    },
+    {
+      "time_step": 289,
+      "insurer_reserve": 146541.701622911,
+      "model_reserve": 121514.81955810825,
+      "absolute_error": 25026.882064802747,
+      "relative_error_pct": 17.07833455435318
+    },
+    {
+      "time_step": 290,
+      "insurer_reserve": 145720.384652687,
+      "model_reserve": 119739.17049947914,
+      "absolute_error": 25981.214153207868,
+      "relative_error_pct": 17.829498745238723
+    },
+    {
+      "time_step": 291,
+      "insurer_reserve": 144903.729745748,
+      "model_reserve": 117805.87475694156,
+      "absolute_error": 27097.85498880643,
+      "relative_error_pct": 18.700591790392878
+    },
+    {
+      "time_step": 292,
+      "insurer_reserve": 144091.710144831,
+      "model_reserve": 115755.42111351805,
+      "absolute_error": 28336.28903131296,
+      "relative_error_pct": 19.665454038147846
+    },
+    {
+      "time_step": 293,
+      "insurer_reserve": 143284.299247691,
+      "model_reserve": 113626.50039125893,
+      "absolute_error": 29657.79885643207,
+      "relative_error_pct": 20.69856851877649
+    },
+    {
+      "time_step": 294,
+      "insurer_reserve": 142463.044481532,
+      "model_reserve": 111441.12850942828,
+      "absolute_error": 31021.91597210373,
+      "relative_error_pct": 21.775412764062622
+    },
+    {
+      "time_step": 295,
+      "insurer_reserve": 141646.524645595,
+      "model_reserve": 109248.14487954065,
+      "absolute_error": 32398.37976605435,
+      "relative_error_pct": 22.872696557233812
+    },
+    {
+      "time_step": 296,
+      "insurer_reserve": 140834.712292741,
+      "model_reserve": 107078.75382195954,
+      "absolute_error": 33755.95847078145,
+      "relative_error_pct": 23.968493222477598
+    },
+    {
+      "time_step": 297,
+      "insurer_reserve": 140027.580135716,
+      "model_reserve": 104961.48864983894,
+      "absolute_error": 35066.09148587707,
+      "relative_error_pct": 25.042274851776124
+    },
+    {
+      "time_step": 298,
+      "insurer_reserve": 139225.101046218,
+      "model_reserve": 102922.34668752529,
+      "absolute_error": 36302.75435869272,
+      "relative_error_pct": 26.07486299948271
+    },
+    {
+      "time_step": 299,
+      "insurer_reserve": 138427.24805397,
+      "model_reserve": 100985.02223853617,
+      "absolute_error": 37442.22581543382,
+      "relative_error_pct": 27.048306125999016
+    },
+    {
+      "time_step": 300,
+      "insurer_reserve": 137582.039117368,
+      "model_reserve": 99133.78384841795,
+      "absolute_error": 38448.255268950044,
+      "relative_error_pct": 27.945693722529246
+    },
+    {
+      "time_step": 301,
+      "insurer_reserve": 136742.056825898,
+      "model_reserve": 97422.24229315182,
+      "absolute_error": 39319.81453274618,
+      "relative_error_pct": 28.75473387299472
+    },
+    {
+      "time_step": 302,
+      "insurer_reserve": 135907.268499377,
+      "model_reserve": 95843.7149505646,
+      "absolute_error": 40063.553548812415,
+      "relative_error_pct": 29.478595215086724
+    },
+    {
+      "time_step": 303,
+      "insurer_reserve": 135077.641663896,
+      "model_reserve": 94387.1898179074,
+      "absolute_error": 40690.4518459886,
+      "relative_error_pct": 30.123750566533975
+    },
+    {
+      "time_step": 304,
+      "insurer_reserve": 134253.144050499,
+      "model_reserve": 93042.60627319611,
+      "absolute_error": 41210.537777302874,
+      "relative_error_pct": 30.696143519589853
+    },
+    {
+      "time_step": 305,
+      "insurer_reserve": 133433.743593886,
+      "model_reserve": 91800.72721623188,
+      "absolute_error": 41633.016377654116,
+      "relative_error_pct": 31.201265329380867
+    },
+    {
+      "time_step": 306,
+      "insurer_reserve": 132600.555522304,
+      "model_reserve": 90640.14096302807,
+      "absolute_error": 41960.41455927593,
+      "relative_error_pct": 31.64422229906722
+    },
+    {
+      "time_step": 307,
+      "insurer_reserve": 131772.600782084,
+      "model_reserve": 89566.10671559878,
+      "absolute_error": 42206.494066485204,
+      "relative_error_pct": 32.029795128869964
+    },
+    {
+      "time_step": 308,
+      "insurer_reserve": 130949.846323669,
+      "model_reserve": 88571.21353066298,
+      "absolute_error": 42378.63279300602,
+      "relative_error_pct": 32.362491429167974
+    },
+    {
+      "time_step": 309,
+      "insurer_reserve": 130132.259307251,
+      "model_reserve": 87648.51105973539,
+      "absolute_error": 42483.748247515614,
+      "relative_error_pct": 32.646592377381715
+    },
+    {
+      "time_step": 310,
+      "insurer_reserve": 129319.807101427,
+      "model_reserve": 86791.4440492927,
+      "absolute_error": 42528.3630521343,
+      "relative_error_pct": 32.8861943157546
+    },
+    {
+      "time_step": 311,
+      "insurer_reserve": 128512.457281876,
+      "model_reserve": 85993.79473515022,
+      "absolute_error": 42518.66254672578,
+      "relative_error_pct": 33.08524593337003
+    },
+    {
+      "time_step": 312,
+      "insurer_reserve": 127658.056649767,
+      "model_reserve": 85214.84016325418,
+      "absolute_error": 42443.216486512814,
+      "relative_error_pct": 33.24758154744343
+    },
+    {
+      "time_step": 313,
+      "insurer_reserve": 126809.409099649,
+      "model_reserve": 84484.30330782314,
+      "absolute_error": 42325.10579182586,
+      "relative_error_pct": 33.376944260158226
+    },
+    {
+      "time_step": 314,
+      "insurer_reserve": 125966.47546121,
+      "model_reserve": 83796.68780162912,
+      "absolute_error": 42169.78765958088,
+      "relative_error_pct": 33.47699259281618
+    },
+    {
+      "time_step": 315,
+      "insurer_reserve": 125129.216833365,
+      "model_reserve": 83146.68314680041,
+      "absolute_error": 41982.533686564595,
+      "relative_error_pct": 33.55134376208306
+    },
+    {
+      "time_step": 316,
+      "insurer_reserve": 124297.594582397,
+      "model_reserve": 82529.12691720529,
+      "absolute_error": 41768.46766519171,
+      "relative_error_pct": 33.60360094297992
+    },
+    {
+      "time_step": 317,
+      "insurer_reserve": 123471.570340097,
+      "model_reserve": 81938.9798267918,
+      "absolute_error": 41532.5905133052,
+      "relative_error_pct": 33.637371257938575
+    },
+    {
+      "time_step": 318,
+      "insurer_reserve": 122631.932390393,
+      "model_reserve": 81358.58444498459,
+      "absolute_error": 41273.347945408415,
+      "relative_error_pct": 33.65628115034235
+    },
+    {
+      "time_step": 319,
+      "insurer_reserve": 121798.037935924,
+      "model_reserve": 80795.95967810664,
+      "absolute_error": 41002.07825781737,
+      "relative_error_pct": 33.66398913534872
+    },
+    {
+      "time_step": 320,
+      "insurer_reserve": 120969.847474866,
+      "model_reserve": 80246.32106402791,
+      "absolute_error": 40723.52641083808,
+      "relative_error_pct": 33.664195880960534
+    },
+    {
+      "time_step": 321,
+      "insurer_reserve": 120147.321778417,
+      "model_reserve": 79704.95046024572,
+      "absolute_error": 40442.37131817128,
+      "relative_error_pct": 33.660651539746816
+    },
+    {
+      "time_step": 322,
+      "insurer_reserve": 119330.42188891,
+      "model_reserve": 79167.19059604117,
+      "absolute_error": 40163.23129286883,
+      "relative_error_pct": 33.65716022546084
+    },
+    {
+      "time_step": 323,
+      "insurer_reserve": 118519.109117924,
+      "model_reserve": 78628.44336023644,
+      "absolute_error": 39890.66575768756,
+      "relative_error_pct": 33.65758151117825
+    },
+    {
+      "time_step": 324,
+      "insurer_reserve": 117661.460517485,
+      "model_reserve": 78049.75463889043,
+      "absolute_error": 39611.70587859457,
+      "relative_error_pct": 33.665828814616916
+    },
+    {
+      "time_step": 325,
+      "insurer_reserve": 116810.09769807,
+      "model_reserve": 77462.55125578075,
+      "absolute_error": 39347.546442289255,
+      "relative_error_pct": 33.68505567386352
+    },
+    {
+      "time_step": 326,
+      "insurer_reserve": 115964.974075075,
+      "model_reserve": 76867.148045577,
+      "absolute_error": 39097.826029498,
+      "relative_error_pct": 33.71520266471694
+    },
+    {
+      "time_step": 327,
+      "insurer_reserve": 115126.043412439,
+      "model_reserve": 76264.80156788495,
+      "absolute_error": 38861.24184455405,
+      "relative_error_pct": 33.75538730653121
+    },
+    {
+      "time_step": 328,
+      "insurer_reserve": 114293.259820016,
+      "model_reserve": 75656.75514021186,
+      "absolute_error": 38636.504679804144,
+      "relative_error_pct": 33.804709692108894
+    },
+    {
+      "time_step": 329,
+      "insurer_reserve": 113466.57775097,
+      "model_reserve": 75044.23658462899,
+      "absolute_error": 38422.34116634101,
+      "relative_error_pct": 33.862254355346984
+    },
+    {
+      "time_step": 330,
+      "insurer_reserve": 112626.579705738,
+      "model_reserve": 74415.65639391157,
+      "absolute_error": 38210.923311826424,
+      "relative_error_pct": 33.927091998763494
+    },
+    {
+      "time_step": 331,
+      "insurer_reserve": 111792.836970329,
+      "model_reserve": 73785.19404069708,
+      "absolute_error": 38007.64292963191,
+      "relative_error_pct": 33.9982810702975
+    },
+    {
+      "time_step": 332,
+      "insurer_reserve": 110965.302708643,
+      "model_reserve": 73154.02097580447,
+      "absolute_error": 37811.28173283853,
+      "relative_error_pct": 34.0748691797093
+    },
+    {
+      "time_step": 333,
+      "insurer_reserve": 110143.930437007,
+      "model_reserve": 72523.28592885393,
+      "absolute_error": 37620.64450815307,
+      "relative_error_pct": 34.155894345598
+    },
+    {
+      "time_step": 334,
+      "insurer_reserve": 109328.67402151,
+      "model_reserve": 71894.1139565635,
+      "absolute_error": 37434.560064946505,
+      "relative_error_pct": 34.24038606521597
+    },
+    {
+      "time_step": 335,
+      "insurer_reserve": 108519.487675358,
+      "model_reserve": 71267.6057428329,
+      "absolute_error": 37251.88193252511,
+      "relative_error_pct": 34.32736619985358
+    },
+    {
+      "time_step": 336,
+      "insurer_reserve": 107665.108425747,
+      "model_reserve": 70611.24656373776,
+      "absolute_error": 37053.861862009246,
+      "relative_error_pct": 34.41584966922134
+    },
+    {
+      "time_step": 337,
+      "insurer_reserve": 106817.542021678,
+      "model_reserve": 69960.05994035232,
+      "absolute_error": 36857.48208132568,
+      "relative_error_pct": 34.5050835131983
+    },
+    {
+      "time_step": 338,
+      "insurer_reserve": 105976.73352724,
+      "model_reserve": 69313.80094231047,
+      "absolute_error": 36662.93258492953,
+      "relative_error_pct": 34.595265738687615
+    },
+    {
+      "time_step": 339,
+      "insurer_reserve": 105142.628453764,
+      "model_reserve": 68671.97875473388,
+      "absolute_error": 36470.649699030124,
+      "relative_error_pct": 34.68683466960114
+    },
+    {
+      "time_step": 340,
+      "insurer_reserve": 104315.172756146,
+      "model_reserve": 68034.11474272129,
+      "absolute_error": 36281.058013424714,
+      "relative_error_pct": 34.78023096241014
+    },
+    {
+      "time_step": 341,
+      "insurer_reserve": 103494.312829214,
+      "model_reserve": 67399.74245358951,
+      "absolute_error": 36094.57037562449,
+      "relative_error_pct": 34.875897417849075
+    },
+    {
+      "time_step": 342,
+      "insurer_reserve": 102660.561407584,
+      "model_reserve": 66755.77049550721,
+      "absolute_error": 35904.79091207679,
+      "relative_error_pct": 34.97427874909745
+    },
+    {
+      "time_step": 343,
+      "insurer_reserve": 101833.566423544,
+      "model_reserve": 66114.6066351351,
+      "absolute_error": 35718.9597884089,
+      "relative_error_pct": 35.07582130615691
+    },
+    {
+      "time_step": 344,
+      "insurer_reserve": 101013.272826121,
+      "model_reserve": 65475.82083420685,
+      "absolute_error": 35537.45199191415,
+      "relative_error_pct": 35.18097275502248
+    },
+    {
+      "time_step": 345,
+      "insurer_reserve": 100199.626015134,
+      "model_reserve": 64838.995919848785,
+      "absolute_error": 35360.63009528521,
+      "relative_error_pct": 35.2901817118004
+    },
+    {
+      "time_step": 346,
+      "insurer_reserve": 99392.5718374837,
+      "model_reserve": 64203.72775011579,
+      "absolute_error": 35188.844087367914,
+      "relative_error_pct": 35.403897330381
+    },
+    {
+      "time_step": 347,
+      "insurer_reserve": 98592.0565834748,
+      "model_reserve": 63569.625408844186,
+      "absolute_error": 35022.43117463061,
+      "relative_error_pct": 35.52256884405106
+    },
+    {
+      "time_step": 348,
+      "insurer_reserve": 97747.925777877,
+      "model_reserve": 62904.069622043746,
+      "absolute_error": 34843.85615583325,
+      "relative_error_pct": 35.646645060287675
+    },
+    {
+      "time_step": 349,
+      "insurer_reserve": 96911.1150922286,
+      "model_reserve": 62240.05593667085,
+      "absolute_error": 34671.059155557756,
+      "relative_error_pct": 35.77614303845531
+    },
+    {
+      "time_step": 350,
+      "insurer_reserve": 96081.5603325989,
+      "model_reserve": 61579.29288626668,
+      "absolute_error": 34502.267446332226,
+      "relative_error_pct": 35.90935381034416
+    },
+    {
+      "time_step": 351,
+      "insurer_reserve": 95259.1978734529,
+      "model_reserve": 60923.84606321629,
+      "absolute_error": 34335.35181023661,
+      "relative_error_pct": 36.04413282573449
+    },
+    {
+      "time_step": 352,
+      "insurer_reserve": 94443.9646525776,
+      "model_reserve": 60275.71386863791,
+      "absolute_error": 34168.25078393969,
+      "relative_error_pct": 36.17833168019928
+    },
+    {
+      "time_step": 353,
+      "insurer_reserve": 93635.7981660539,
+      "model_reserve": 59636.82843712952,
+      "absolute_error": 33998.96972892437,
+      "relative_error_pct": 36.309798597146084
+    },
+    {
+      "time_step": 354,
+      "insurer_reserve": 92815.2905319514,
+      "model_reserve": 58996.760510038934,
+      "absolute_error": 33818.53002191246,
+      "relative_error_pct": 36.436377915846236
+    },
+    {
+      "time_step": 355,
+      "insurer_reserve": 92002.0153389763,
+      "model_reserve": 58369.842728679985,
+      "absolute_error": 33632.172610296315,
+      "relative_error_pct": 36.555908570459515
+    },
+    {
+      "time_step": 356,
+      "insurer_reserve": 91195.9084871419,
+      "model_reserve": 57757.814642976235,
+      "absolute_error": 33438.09384416567,
+      "relative_error_pct": 36.666221543130135
+    },
+    {
+      "time_step": 357,
+      "insurer_reserve": 90396.9064474157,
+      "model_reserve": 57162.360607857336,
+      "absolute_error": 33234.54583955837,
+      "relative_error_pct": 36.765136270333606
+    },
+    {
+      "time_step": 358,
+      "insurer_reserve": 89604.9462566106,
+      "model_reserve": 56585.11498303436,
+      "absolute_error": 33019.83127357624,
+      "relative_error_pct": 36.850455977077495
+    },
+    {
+      "time_step": 359,
+      "insurer_reserve": 88819.9655123224,
+      "model_reserve": 56027.66808050867,
+      "absolute_error": 32792.29743181372,
+      "relative_error_pct": 36.91996190570948
+    },
+    {
+      "time_step": 360,
+      "insurer_reserve": 87993.3738513367,
+      "model_reserve": 55460.98600243159,
+      "absolute_error": 32532.387848905106,
+      "relative_error_pct": 36.971406396881676
+    },
+    {
+      "time_step": 361,
+      "insurer_reserve": 87174.5736226446,
+      "model_reserve": 54917.047295092256,
+      "absolute_error": 32257.526327552347,
+      "relative_error_pct": 37.00336576028068
+    },
+    {
+      "time_step": 362,
+      "insurer_reserve": 86363.4905535863,
+      "model_reserve": 54393.5969320087,
+      "absolute_error": 31969.893621577605,
+      "relative_error_pct": 37.017834060031554
+    },
+    {
+      "time_step": 363,
+      "insurer_reserve": 85560.0510864072,
+      "model_reserve": 53887.70966712684,
+      "absolute_error": 31672.34141928036,
+      "relative_error_pct": 37.01767474086057
+    },
+    {
+      "time_step": 364,
+      "insurer_reserve": 84764.1823713204,
+      "model_reserve": 53396.541037134164,
+      "absolute_error": 31367.641334186243,
+      "relative_error_pct": 37.00577349614045
+    },
+    {
+      "time_step": 365,
+      "insurer_reserve": 83975.8122596366,
+      "model_reserve": 52917.31903130941,
+      "absolute_error": 31058.493228327192,
+      "relative_error_pct": 36.98504651827656
+    },
+    {
+      "time_step": 366,
+      "insurer_reserve": 83175.7720653546,
+      "model_reserve": 52435.29840383339,
+      "absolute_error": 30740.47366152121,
+      "relative_error_pct": 36.95844703114648
+    },
+    {
+      "time_step": 367,
+      "insurer_reserve": 82383.3989688135,
+      "model_reserve": 51960.058240235056,
+      "absolute_error": 30423.34072857845,
+      "relative_error_pct": 36.9289700466174
+    },
+    {
+      "time_step": 368,
+      "insurer_reserve": 81598.6190902331,
+      "model_reserve": 51489.009938914074,
+      "absolute_error": 30109.609151319026,
+      "relative_error_pct": 36.89965527238068
+    },
+    {
+      "time_step": 369,
+      "insurer_reserve": 80821.3592653153,
+      "model_reserve": 51019.6241609454,
+      "absolute_error": 29801.735104369902,
+      "relative_error_pct": 36.87358809017135
+    },
+    {
+      "time_step": 370,
+      "insurer_reserve": 80051.5470382843,
+      "model_reserve": 50549.43113163525,
+      "absolute_error": 29502.115906649058,
+      "relative_error_pct": 36.85389851683916
+    },
+    {
+      "time_step": 371,
+      "insurer_reserve": 79289.110654993,
+      "model_reserve": 50076.02255660452,
+      "absolute_error": 29213.088098388478,
+      "relative_error_pct": 36.84375806092973
+    },
+    {
+      "time_step": 372,
+      "insurer_reserve": 78487.4729342977,
+      "model_reserve": 49567.68480714751,
+      "absolute_error": 28919.788127150183,
+      "relative_error_pct": 36.846374390673915
+    },
+    {
+      "time_step": 373,
+      "insurer_reserve": 77694.0442676236,
+      "model_reserve": 49052.77205088366,
+      "absolute_error": 28641.27221673994,
+      "relative_error_pct": 36.864179856673054
+    },
+    {
+      "time_step": 374,
+      "insurer_reserve": 76908.7396367317,
+      "model_reserve": 48532.18723106955,
+      "absolute_error": 28376.55240566215,
+      "relative_error_pct": 36.89639505171331
+    },
+    {
+      "time_step": 375,
+      "insurer_reserve": 76131.4749125173,
+      "model_reserve": 48007.43429051278,
+      "absolute_error": 28124.04062200452,
+      "relative_error_pct": 36.941410440717014
+    },
+    {
+      "time_step": 376,
+      "insurer_reserve": 75362.166845634,
+      "model_reserve": 47479.98103687733,
+      "absolute_error": 27882.185808756665,
+      "relative_error_pct": 36.99759040350892
+    },
+    {
+      "time_step": 377,
+      "insurer_reserve": 74600.7330572178,
+      "model_reserve": 46951.256355436846,
+      "absolute_error": 27649.476701780957,
+      "relative_error_pct": 37.063277488941246
+    },
+    {
+      "time_step": 378,
+      "insurer_reserve": 73828.4110368571,
+      "model_reserve": 46410.904526579274,
+      "absolute_error": 27417.506510277824,
+      "relative_error_pct": 37.13679615370603
+    },
+    {
+      "time_step": 379,
+      "insurer_reserve": 73064.1319553207,
+      "model_reserve": 45872.25146497765,
+      "absolute_error": 27191.88049034305,
+      "relative_error_pct": 37.21645595813155
+    },
+    {
+      "time_step": 380,
+      "insurer_reserve": 72307.8115934304,
+      "model_reserve": 45336.597142673876,
+      "absolute_error": 26971.214450756517,
+      "relative_error_pct": 37.30055419518051
+    },
+    {
+      "time_step": 381,
+      "insurer_reserve": 71559.3666183362,
+      "model_reserve": 44805.19577470312,
+      "absolute_error": 26754.170843633074,
+      "relative_error_pct": 37.38737793240564
+    },
+    {
+      "time_step": 382,
+      "insurer_reserve": 70818.7145741464,
+      "model_reserve": 44279.25579110723,
+      "absolute_error": 26539.458783039176,
+      "relative_error_pct": 37.47520544905211
+    },
+    {
+      "time_step": 383,
+      "insurer_reserve": 70085.7738726558,
+      "model_reserve": 43759.94028988379,
+      "absolute_error": 26325.833582772015,
+      "relative_error_pct": 37.56230705336212
+    },
+    {
+      "time_step": 384,
+      "insurer_reserve": 69316.4072802449,
+      "model_reserve": 43220.89737141386,
+      "absolute_error": 26095.50990883103,
+      "relative_error_pct": 37.64694526553777
+    },
+    {
+      "time_step": 385,
+      "insurer_reserve": 68555.5951093451,
+      "model_reserve": 42691.120189937596,
+      "absolute_error": 25864.474919407505,
+      "relative_error_pct": 37.727737434346636
+    },
+    {
+      "time_step": 386,
+      "insurer_reserve": 67803.2411608549,
+      "model_reserve": 42170.396880639026,
+      "absolute_error": 25632.844280215875,
+      "relative_error_pct": 37.80474773972101
+    },
+    {
+      "time_step": 387,
+      "insurer_reserve": 67059.2503281633,
+      "model_reserve": 41658.27653513892,
+      "absolute_error": 25400.97379302438,
+      "relative_error_pct": 37.87840405122538
+    },
+    {
+      "time_step": 388,
+      "insurer_reserve": 66323.5285846386,
+      "model_reserve": 41154.322513691695,
+      "absolute_error": 25169.2060709469,
+      "relative_error_pct": 37.94913601261019
+    },
+    {
+      "time_step": 389,
+      "insurer_reserve": 65595.9829712617,
+      "model_reserve": 40658.11194261108,
+      "absolute_error": 24937.871028650625,
+      "relative_error_pct": 38.017375301131125
+    },
+    {
+      "time_step": 390,
+      "insurer_reserve": 64858.4269923471,
+      "model_reserve": 40158.031725201145,
+      "absolute_error": 24700.395267145956,
+      "relative_error_pct": 38.08355585012947
+    },
+    {
+      "time_step": 391,
+      "insurer_reserve": 64129.2130563537,
+      "model_reserve": 39665.12773074486,
+      "absolute_error": 24464.085325608838,
+      "relative_error_pct": 38.148114033632325
+    },
+    {
+      "time_step": 392,
+      "insurer_reserve": 63408.2462921825,
+      "model_reserve": 39179.011353820206,
+      "absolute_error": 24229.234938362293,
+      "relative_error_pct": 38.21148881285095
+    },
+    {
+      "time_step": 393,
+      "insurer_reserve": 62695.4329131401,
+      "model_reserve": 38699.306530128335,
+      "absolute_error": 23996.126383011768,
+      "relative_error_pct": 38.27412184274512
+    },
+    {
+      "time_step": 394,
+      "insurer_reserve": 61990.6802044865,
+      "model_reserve": 38225.64941017025,
+      "absolute_error": 23765.030794316255,
+      "relative_error_pct": 38.33645753833217
+    },
+    {
+      "time_step": 395,
+      "insurer_reserve": 61293.8965111257,
+      "model_reserve": 37757.688066316085,
+      "absolute_error": 23536.208444809614,
+      "relative_error_pct": 38.3989430995588
+    },
+    {
+      "time_step": 396,
+      "insurer_reserve": 60563.7728638072,
+      "model_reserve": 37269.71728828774,
+      "absolute_error": 23294.05557551946,
+      "relative_error_pct": 38.462028493340355
+    },
+    {
+      "time_step": 397,
+      "insurer_reserve": 59842.4583177574,
+      "model_reserve": 36787.510082514884,
+      "absolute_error": 23054.94823524252,
+      "relative_error_pct": 38.52607142711798
+    },
+    {
+      "time_step": 398,
+      "insurer_reserve": 59129.845372835,
+      "model_reserve": 36311.016450350806,
+      "absolute_error": 22818.828922484194,
+      "relative_error_pct": 38.59105123411578
+    },
+    {
+      "time_step": 399,
+      "insurer_reserve": 58425.8278538012,
+      "model_reserve": 35840.24218941107,
+      "absolute_error": 22585.585664390135,
+      "relative_error_pct": 38.65685176238493
+    },
+    {
+      "time_step": 400,
+      "insurer_reserve": 57730.3008938526,
+      "model_reserve": 35375.19091147681,
+      "absolute_error": 22355.10998237579,
+      "relative_error_pct": 38.72335608206793
+    },
+    {
+      "time_step": 401,
+      "insurer_reserve": 57043.1609183599,
+      "model_reserve": 34915.86409391223,
+      "absolute_error": 22127.296824447672,
+      "relative_error_pct": 38.79044651139903
+    },
+    {
+      "time_step": 402,
+      "insurer_reserve": 56346.9651172635,
+      "model_reserve": 34451.658797415665,
+      "absolute_error": 21895.306319847834,
+      "relative_error_pct": 38.85800464014624
+    },
+    {
+      "time_step": 403,
+      "insurer_reserve": 55659.3163734803,
+      "model_reserve": 33993.420223776855,
+      "absolute_error": 21665.896149703447,
+      "relative_error_pct": 38.925911350263156
+    },
+    {
+      "time_step": 404,
+      "insurer_reserve": 54980.1091779729,
+      "model_reserve": 33541.13965614258,
+      "absolute_error": 21438.969521830324,
+      "relative_error_pct": 38.99404683324925
+    },
+    {
+      "time_step": 405,
+      "insurer_reserve": 54309.2393307889,
+      "model_reserve": 33094.80643795955,
+      "absolute_error": 21214.432892829347,
+      "relative_error_pct": 39.06229060513189
+    },
+    {
+      "time_step": 406,
+      "insurer_reserve": 53646.6039247432,
+      "model_reserve": 32654.40803244949,
+      "absolute_error": 20992.19589229371,
+      "relative_error_pct": 39.13052151771264
+    },
+    {
+      "time_step": 407,
+      "insurer_reserve": 52992.1013293043,
+      "model_reserve": 32219.930082379746,
+      "absolute_error": 20772.171246924554,
+      "relative_error_pct": 39.19861776728162
+    },
+    {
+      "time_step": 408,
+      "insurer_reserve": 52307.5840946767,
+      "model_reserve": 31768.24913086534,
+      "absolute_error": 20539.334963811358,
+      "relative_error_pct": 39.26645689970153
+    },
+    {
+      "time_step": 409,
+      "insurer_reserve": 51632.022858248,
+      "model_reserve": 31323.113097750087,
+      "absolute_error": 20308.90976049791,
+      "relative_error_pct": 39.333941682382964
+    },
+    {
+      "time_step": 410,
+      "insurer_reserve": 50965.2990963867,
+      "model_reserve": 30884.421852172974,
+      "absolute_error": 20080.877244213723,
+      "relative_error_pct": 39.401077988841635
+    },
+    {
+      "time_step": 411,
+      "insurer_reserve": 50307.2958697199,
+      "model_reserve": 30452.063815090176,
+      "absolute_error": 19855.232054629723,
+      "relative_error_pct": 39.46789767044633
+    },
+    {
+      "time_step": 412,
+      "insurer_reserve": 49657.8978017757,
+      "model_reserve": 30025.92958746399,
+      "absolute_error": 19631.968214311713,
+      "relative_error_pct": 39.53443275564859
+    },
+    {
+      "time_step": 413,
+      "insurer_reserve": 49016.9910579155,
+      "model_reserve": 29605.911906856934,
+      "absolute_error": 19411.079151058562,
+      "relative_error_pct": 39.60071545012547
+    },
+    {
+      "time_step": 414,
+      "insurer_reserve": 48368.0361901126,
+      "model_reserve": 29181.994585481076,
+      "absolute_error": 19186.041604631526,
+      "relative_error_pct": 39.666778136743
+    },
+    {
+      "time_step": 415,
+      "insurer_reserve": 47727.7237603195,
+      "model_reserve": 28764.2327146312,
+      "absolute_error": 18963.4910456883,
+      "relative_error_pct": 39.732653375467315
+    },
+    {
+      "time_step": 416,
+      "insurer_reserve": 47095.9380377255,
+      "model_reserve": 28352.520524450934,
+      "absolute_error": 18743.417513274566,
+      "relative_error_pct": 39.79837390277784
+    },
+    {
+      "time_step": 417,
+      "insurer_reserve": 46472.56484919,
+      "model_reserve": 27946.754316744165,
+      "absolute_error": 18525.810532445834,
+      "relative_error_pct": 39.86397263108824
+    },
+    {
+      "time_step": 418,
+      "insurer_reserve": 45857.4915581798,
+      "model_reserve": 27546.83242370509,
+      "absolute_error": 18310.659134474707,
+      "relative_error_pct": 39.92948264787623
+    },
+    {
+      "time_step": 419,
+      "insurer_reserve": 45250.607043991,
+      "model_reserve": 27152.65516755389,
+      "absolute_error": 18097.951876437113,
+      "relative_error_pct": 39.99493721452828
+    },
+    {
+      "time_step": 420,
+      "insurer_reserve": 44617.1885467567,
+      "model_reserve": 26743.37783614201,
+      "absolute_error": 17873.810710614685,
+      "relative_error_pct": 40.06036976508231
+    },
+    {
+      "time_step": 421,
+      "insurer_reserve": 43992.750776946,
+      "model_reserve": 26340.304566708855,
+      "absolute_error": 17652.446210237144,
+      "relative_error_pct": 40.12580686245186
+    },
+    {
+      "time_step": 422,
+      "insurer_reserve": 43377.1649356283,
+      "model_reserve": 25943.34143551422,
+      "absolute_error": 17433.823500114082,
+      "relative_error_pct": 40.191246998244054
+    },
+    {
+      "time_step": 423,
+      "insurer_reserve": 42770.3040897234,
+      "model_reserve": 25552.398956435856,
+      "absolute_error": 17217.905133287546,
+      "relative_error_pct": 40.256681591900495
+    },
+    {
+      "time_step": 424,
+      "insurer_reserve": 42172.0431447382,
+      "model_reserve": 25167.38888595006,
+      "absolute_error": 17004.65425878814,
+      "relative_error_pct": 40.322102015372266
+    },
+    {
+      "time_step": 425,
+      "insurer_reserve": 41582.2588179032,
+      "model_reserve": 24788.224206911847,
+      "absolute_error": 16794.034610991355,
+      "relative_error_pct": 40.387499593361916
+    },
+    {
+      "time_step": 426,
+      "insurer_reserve": 40985.4607215863,
+      "model_reserve": 24405.667378742633,
+      "absolute_error": 16579.793342843666,
+      "relative_error_pct": 40.45286560390278
+    },
+    {
+      "time_step": 427,
+      "insurer_reserve": 40397.2784291076,
+      "model_reserve": 24029.031883743795,
+      "absolute_error": 16368.246545363807,
+      "relative_error_pct": 40.51819127887074
+    },
+    {
+      "time_step": 428,
+      "insurer_reserve": 39817.5868692504,
+      "model_reserve": 23658.229321737497,
+      "absolute_error": 16159.357547512904,
+      "relative_error_pct": 40.583467804253495
+    },
+    {
+      "time_step": 429,
+      "insurer_reserve": 39246.2627957074,
+      "model_reserve": 23293.172539289597,
+      "absolute_error": 15953.090256417803,
+      "relative_error_pct": 40.64868632068246
+    },
+    {
+      "time_step": 430,
+      "insurer_reserve": 38683.1847603275,
+      "model_reserve": 22933.775613278045,
+      "absolute_error": 15749.409147049457,
+      "relative_error_pct": 40.71383792371112
+    },
+    {
+      "time_step": 431,
+      "insurer_reserve": 38128.2330867573,
+      "model_reserve": 22579.953834556472,
+      "absolute_error": 15548.279252200824,
+      "relative_error_pct": 40.77891366437606
+    },
+    {
+      "time_step": 432,
+      "insurer_reserve": 37550.289862797,
+      "model_reserve": 22213.285313245127,
+      "absolute_error": 15337.004549551872,
+      "relative_error_pct": 40.84390454931489
+    },
+    {
+      "time_step": 433,
+      "insurer_reserve": 36981.2196968098,
+      "model_reserve": 21852.645215169494,
+      "absolute_error": 15128.574481640306,
+      "relative_error_pct": 40.90880345665121
+    },
+    {
+      "time_step": 434,
+      "insurer_reserve": 36420.8847856469,
+      "model_reserve": 21497.933167033738,
+      "absolute_error": 14922.951618613162,
+      "relative_error_pct": 40.9736109005626
+    },
+    {
+      "time_step": 435,
+      "insurer_reserve": 35869.1494880987,
+      "model_reserve": 21149.049797501786,
+      "absolute_error": 14720.099690596915,
+      "relative_error_pct": 41.03832931829346
+    },
+    {
+      "time_step": 436,
+      "insurer_reserve": 35325.8802906788,
+      "model_reserve": 20805.897435757022,
+      "absolute_error": 14519.982854921775,
+      "relative_error_pct": 41.102961158912905
+    },
+    {
+      "time_step": 437,
+      "insurer_reserve": 34790.9457739546,
+      "model_reserve": 20468.38008179395,
+      "absolute_error": 14322.56569216065,
+      "relative_error_pct": 41.16750888354088
+    },
+    {
+      "time_step": 438,
+      "insurer_reserve": 34250.0301496576,
+      "model_reserve": 20128.066292761996,
+      "absolute_error": 14121.963856895603,
+      "relative_error_pct": 41.23197496524476
+    },
+    {
+      "time_step": 439,
+      "insurer_reserve": 33717.5738398668,
+      "model_reserve": 19793.442526845727,
+      "absolute_error": 13924.131313021076,
+      "relative_error_pct": 41.296361888759435
+    },
+    {
+      "time_step": 440,
+      "insurer_reserve": 33193.4438190112,
+      "model_reserve": 19464.412345547084,
+      "absolute_error": 13729.031473464114,
+      "relative_error_pct": 41.360672150567744
+    },
+    {
+      "time_step": 441,
+      "insurer_reserve": 32677.5091641617,
+      "model_reserve": 19140.88097164285,
+      "absolute_error": 13536.628192518849,
+      "relative_error_pct": 41.42490825881194
+    },
+    {
+      "time_step": 442,
+      "insurer_reserve": 32169.6410216382,
+      "model_reserve": 18822.755260191323,
+      "absolute_error": 13346.885761446876,
+      "relative_error_pct": 41.48907273310693
+    },
+    {
+      "time_step": 443,
+      "insurer_reserve": 31669.7125741498,
+      "model_reserve": 18509.94367000248,
+      "absolute_error": 13159.768904147317,
+      "relative_error_pct": 41.55316810449645
+    },
+    {
+      "time_step": 444,
+      "insurer_reserve": 31150.298923179,
+      "model_reserve": 18186.41768058325,
+      "absolute_error": 12963.881242595751,
+      "relative_error_pct": 41.61719691540199
+    },
+    {
+      "time_step": 445,
+      "insurer_reserve": 30639.5135449557,
+      "model_reserve": 17868.608513723135,
+      "absolute_error": 12770.905031232563,
+      "relative_error_pct": 41.681161198902544
+    },
+    {
+      "time_step": 446,
+      "insurer_reserve": 30137.2114460663,
+      "model_reserve": 17556.414170633194,
+      "absolute_error": 12580.797275433106,
+      "relative_error_pct": 41.74506091231354
+    },
+    {
+      "time_step": 447,
+      "insurer_reserve": 29643.2500946327,
+      "model_reserve": 17249.734642630192,
+      "absolute_error": 12393.51545200251,
+      "relative_error_pct": 41.80889549033127
+    },
+    {
+      "time_step": 448,
+      "insurer_reserve": 29157.4893781525,
+      "model_reserve": 16948.47171372442,
+      "absolute_error": 12209.01766442808,
+      "relative_error_pct": 41.87266436449844
+    },
+    {
+      "time_step": 449,
+      "insurer_reserve": 28679.7915620651,
+      "model_reserve": 16652.528928355077,
+      "absolute_error": 12027.262633710023,
+      "relative_error_pct": 41.93636696306587
+    },
+    {
+      "time_step": 450,
+      "insurer_reserve": 28197.115217846,
+      "model_reserve": 16354.32606188139,
+      "absolute_error": 11842.78915596461,
+      "relative_error_pct": 42.00000271116136
+    },
+    {
+      "time_step": 451,
+      "insurer_reserve": 27722.6097682657,
+      "model_reserve": 16061.49011681773,
+      "absolute_error": 11661.119651447969,
+      "relative_error_pct": 42.06357103073517
+    },
+    {
+      "time_step": 452,
+      "insurer_reserve": 27256.1361293253,
+      "model_reserve": 15773.924217416761,
+      "absolute_error": 11482.211911908538,
+      "relative_error_pct": 42.12707134066097
+    },
+    {
+      "time_step": 453,
+      "insurer_reserve": 26797.5575967247,
+      "model_reserve": 15491.533239755938,
+      "absolute_error": 11306.024356968761,
+      "relative_error_pct": 42.190503056706284
+    },
+    {
+      "time_step": 454,
+      "insurer_reserve": 26346.7398049524,
+      "model_reserve": 15214.22378002701,
+      "absolute_error": 11132.516024925391,
+      "relative_error_pct": 42.25386559149459
+    },
+    {
+      "time_step": 455,
+      "insurer_reserve": 25903.5506870806,
+      "model_reserve": 14941.904123343995,
+      "absolute_error": 10961.646563736604,
+      "relative_error_pct": 42.31715835467965
+    },
+    {
+      "time_step": 456,
+      "insurer_reserve": 25444.2501337695,
+      "model_reserve": 14660.880047370136,
+      "absolute_error": 10783.370086399364,
+      "relative_error_pct": 42.380380752851195
+    },
+    {
+      "time_step": 457,
+      "insurer_reserve": 24993.1978554699,
+      "model_reserve": 14385.201843133931,
+      "absolute_error": 10607.99601233597,
+      "relative_error_pct": 42.44353233099522
+    },
+    {
+      "time_step": 458,
+      "insurer_reserve": 24550.2440020056,
+      "model_reserve": 14114.766744960347,
+      "absolute_error": 10435.477257045251,
+      "relative_error_pct": 42.5066131977863
+    },
+    {
+      "time_step": 459,
+      "insurer_reserve": 24115.2414737518,
+      "model_reserve": 13849.473947252387,
+      "absolute_error": 10265.767526499414,
+      "relative_error_pct": 42.569623603699654
+    },
+    {
+      "time_step": 460,
+      "insurer_reserve": 23688.0458706935,
+      "model_reserve": 13589.224601910324,
+      "absolute_error": 10098.821268783175,
+      "relative_error_pct": 42.63256379994302
+    },
+    {
+      "time_step": 461,
+      "insurer_reserve": 23268.5154424349,
+      "model_reserve": 13333.92177998438,
+      "absolute_error": 9934.59366245052,
+      "relative_error_pct": 42.69543403844646
+    },
+    {
+      "time_step": 462,
+      "insurer_reserve": 22844.9522266799,
+      "model_reserve": 13076.853965768496,
+      "absolute_error": 9768.098260911403,
+      "relative_error_pct": 42.75823457185237
+    },
+    {
+      "time_step": 463,
+      "insurer_reserve": 22429.1441583882,
+      "model_reserve": 12824.768041952822,
+      "absolute_error": 9604.376116435378,
+      "relative_error_pct": 42.82096565349093
+    },
+    {
+      "time_step": 464,
+      "insurer_reserve": 22020.9484620753,
+      "model_reserve": 12577.566943393067,
+      "absolute_error": 9443.381518682232,
+      "relative_error_pct": 42.88362753741384
+    },
+    {
+      "time_step": 465,
+      "insurer_reserve": 21620.225004425,
+      "model_reserve": 12335.155506102063,
+      "absolute_error": 9285.069498322937,
+      "relative_error_pct": 42.946220478383395
+    },
+    {
+      "time_step": 466,
+      "insurer_reserve": 21226.8362451587,
+      "model_reserve": 12097.440429846827,
+      "absolute_error": 9129.395815311875,
+      "relative_error_pct": 43.00874473177347
+    },
+    {
+      "time_step": 467,
+      "insurer_reserve": 20840.6471888226,
+      "model_reserve": 11864.330241424954,
+      "absolute_error": 8976.316947397647,
+      "relative_error_pct": 43.07120055375193
+    },
+    {
+      "time_step": 468,
+      "insurer_reserve": 20441.4992960958,
+      "model_reserve": 11624.347167594371,
+      "absolute_error": 8817.15212850143,
+      "relative_error_pct": 43.13358820106434
+    },
+    {
+      "time_step": 469,
+      "insurer_reserve": 20050.0936473003,
+      "model_reserve": 11389.273662989855,
+      "absolute_error": 8660.819984310443,
+      "relative_error_pct": 43.19590789281228
+    },
+    {
+      "time_step": 470,
+      "insurer_reserve": 19666.2783140664,
+      "model_reserve": 11159.008234916908,
+      "absolute_error": 8507.270079149492,
+      "relative_error_pct": 43.25815969493642
+    },
+    {
+      "time_step": 471,
+      "insurer_reserve": 19289.9043804305,
+      "model_reserve": 10933.451515993926,
+      "absolute_error": 8356.452864436575,
+      "relative_error_pct": 43.32034363485051
+    },
+    {
+      "time_step": 472,
+      "insurer_reserve": 18920.8258825614,
+      "model_reserve": 10712.506211639326,
+      "absolute_error": 8208.319670922074,
+      "relative_error_pct": 43.382459739706015
+    },
+    {
+      "time_step": 473,
+      "insurer_reserve": 18558.8997497017,
+      "model_reserve": 10496.07705651215,
+      "absolute_error": 8062.8226931895515,
+      "relative_error_pct": 43.44450803620051
+    },
+    {
+      "time_step": 474,
+      "insurer_reserve": 18193.8064962209,
+      "model_reserve": 10278.320155957592,
+      "absolute_error": 7915.486340263307,
+      "relative_error_pct": 43.506488550966296
+    },
+    {
+      "time_step": 475,
+      "insurer_reserve": 17835.93700341,
+      "model_reserve": 10065.104392329718,
+      "absolute_error": 7770.832611080281,
+      "relative_error_pct": 43.568401310200855
+    },
+    {
+      "time_step": 476,
+      "insurer_reserve": 17485.1475536076,
+      "model_reserve": 9856.334603085432,
+      "absolute_error": 7628.812950522168,
+      "relative_error_pct": 43.63024633983236
+    },
+    {
+      "time_step": 477,
+      "insurer_reserve": 17141.2973032699,
+      "model_reserve": 9651.917628935373,
+      "absolute_error": 7489.379674334528,
+      "relative_error_pct": 43.6920236655941
+    },
+    {
+      "time_step": 478,
+      "insurer_reserve": 16804.2482252147,
+      "model_reserve": 9451.762271527066,
+      "absolute_error": 7352.485953687632,
+      "relative_error_pct": 43.753733312837284
+    },
+    {
+      "time_step": 479,
+      "insurer_reserve": 16473.865052032,
+      "model_reserve": 9255.779251965716,
+      "absolute_error": 7218.085800066285,
+      "relative_error_pct": 43.81537530669499
+    },
+    {
+      "time_step": 480,
+      "insurer_reserve": 16133.3796852529,
+      "model_reserve": 9054.54480036024,
+      "absolute_error": 7078.83488489266,
+      "relative_error_pct": 43.87694967200975
+    },
+    {
+      "time_step": 481,
+      "insurer_reserve": 15800.0209977795,
+      "model_reserve": 8857.735653566939,
+      "absolute_error": 6942.2853442125615,
+      "relative_error_pct": 43.938456443749125
+    },
+    {
+      "time_step": 482,
+      "insurer_reserve": 15473.6380782052,
+      "model_reserve": 8665.253463060164,
+      "absolute_error": 6808.384615145036,
+      "relative_error_pct": 43.999895698314965
+    },
+    {
+      "time_step": 483,
+      "insurer_reserve": 15154.0832443034,
+      "model_reserve": 8477.002085449676,
+      "absolute_error": 6677.0811588537235,
+      "relative_error_pct": 44.06126752249245
+    },
+    {
+      "time_step": 484,
+      "insurer_reserve": 14841.211973292,
+      "model_reserve": 8292.88753426321,
+      "absolute_error": 6548.324439028791,
+      "relative_error_pct": 44.122572002967466
+    },
+    {
+      "time_step": 485,
+      "insurer_reserve": 14534.8828336158,
+      "model_reserve": 8112.81793112006,
+      "absolute_error": 6422.06490249574,
+      "relative_error_pct": 44.18380922646999
+    },
+    {
+      "time_step": 486,
+      "insurer_reserve": 14226.1539598796,
+      "model_reserve": 7931.795088034147,
+      "absolute_error": 6294.358871845454,
+      "relative_error_pct": 44.24497927968948
+    },
+    {
+      "time_step": 487,
+      "insurer_reserve": 13924.0203640179,
+      "model_reserve": 7754.832449135957,
+      "absolute_error": 6169.1879148819435,
+      "relative_error_pct": 44.30608224923458
+    },
+    {
+      "time_step": 488,
+      "insurer_reserve": 13628.3403789754,
+      "model_reserve": 7581.838491368911,
+      "absolute_error": 6046.501887606489,
+      "relative_error_pct": 44.36711822177921
+    },
+    {
+      "time_step": 489,
+      "insurer_reserve": 13338.9753965204,
+      "model_reserve": 7412.723764579239,
+      "absolute_error": 5926.251631941161,
+      "relative_error_pct": 44.42808728387849
+    },
+    {
+      "time_step": 490,
+      "insurer_reserve": 13055.7898008795,
+      "model_reserve": 7247.400844342435,
+      "absolute_error": 5808.388956537065,
+      "relative_error_pct": 44.488989522072295
+    },
+    {
+      "time_step": 491,
+      "insurer_reserve": 12778.6509038176,
+      "model_reserve": 7085.784285872775,
+      "absolute_error": 5692.866617944824,
+      "relative_error_pct": 44.54982502295364
+    },
+    {
+      "time_step": 492,
+      "insurer_reserve": 12493.9147271079,
+      "model_reserve": 6920.305169359024,
+      "absolute_error": 5573.609557748876,
+      "relative_error_pct": 44.61059387299867
+    },
+    {
+      "time_step": 493,
+      "insurer_reserve": 12215.6032659208,
+      "model_reserve": 6758.734953784095,
+      "absolute_error": 5456.868312136705,
+      "relative_error_pct": 44.671296155797116
+    },
+    {
+      "time_step": 494,
+      "insurer_reserve": 11943.5698597571,
+      "model_reserve": 6600.980318435021,
+      "absolute_error": 5342.58954132208,
+      "relative_error_pct": 44.73193194376085
+    },
+    {
+      "time_step": 495,
+      "insurer_reserve": 11677.6712313986,
+      "model_reserve": 6446.950192533218,
+      "absolute_error": 5230.721038865383,
+      "relative_error_pct": 44.79250130626357
+    },
+    {
+      "time_step": 496,
+      "insurer_reserve": 11417.767408129,
+      "model_reserve": 6296.555700161925,
+      "absolute_error": 5121.211707967075,
+      "relative_error_pct": 44.853004312567926
+    },
+    {
+      "time_step": 497,
+      "insurer_reserve": 11163.7216448055,
+      "model_reserve": 6149.710106890799,
+      "absolute_error": 5014.011537914702,
+      "relative_error_pct": 44.913441031985336
+    },
+    {
+      "time_step": 498,
+      "insurer_reserve": 10907.9333360416,
+      "model_reserve": 6002.219955280702,
+      "absolute_error": 4905.713380760898,
+      "relative_error_pct": 44.9738115335892
+    },
+    {
+      "time_step": 499,
+      "insurer_reserve": 10658.0391693544,
+      "model_reserve": 5858.285458609234,
+      "absolute_error": 4799.753710745166,
+      "relative_error_pct": 45.03411588640189
+    },
+    {
+      "time_step": 500,
+      "insurer_reserve": 10413.9025828004,
+      "model_reserve": 5717.820470295122,
+      "absolute_error": 4696.082112505278,
+      "relative_error_pct": 45.094354159422686
+    },
+    {
+      "time_step": 501,
+      "insurer_reserve": 10175.3901948843,
+      "model_reserve": 5580.7409408521025,
+      "absolute_error": 4594.649254032197,
+      "relative_error_pct": 45.15452642142576
+    },
+    {
+      "time_step": 502,
+      "insurer_reserve": 9942.37173012623,
+      "model_reserve": 5446.964866580519,
+      "absolute_error": 4495.406863545711,
+      "relative_error_pct": 45.21463274124268
+    },
+    {
+      "time_step": 503,
+      "insurer_reserve": 9714.7199463794,
+      "model_reserve": 5316.412239576644,
+      "absolute_error": 4398.307706802756,
+      "relative_error_pct": 45.27467318748567
+    },
+    {
+      "time_step": 504,
+      "insurer_reserve": 9481.59085295308,
+      "model_reserve": 5183.145031203568,
+      "absolute_error": 4298.445821749513,
+      "relative_error_pct": 45.33464782875275
+    },
+    {
+      "time_step": 505,
+      "insurer_reserve": 9254.12643523402,
+      "model_reserve": 5053.256760328541,
+      "absolute_error": 4200.86967490548,
+      "relative_error_pct": 45.394556734292635
+    },
+    {
+      "time_step": 506,
+      "insurer_reserve": 9032.18744263208,
+      "model_reserve": 4926.660835849623,
+      "absolute_error": 4105.526606782456,
+      "relative_error_pct": 45.454399976292564
+    },
+    {
+      "time_step": 507,
+      "insurer_reserve": 8815.63808403991,
+      "model_reserve": 4803.272907458182,
+      "absolute_error": 4012.3651765817285,
+      "relative_error_pct": 45.51417762766182
+    },
+    {
+      "time_step": 508,
+      "insurer_reserve": 8604.34594107297,
+      "model_reserve": 4683.010807209838,
+      "absolute_error": 3921.335133863132,
+      "relative_error_pct": 45.57388976127263
+    },
+    {
+      "time_step": 509,
+      "insurer_reserve": 8398.18188350349,
+      "model_reserve": 4565.794492575283,
+      "absolute_error": 3832.3873909282074,
+      "relative_error_pct": 45.63353644978979
+    },
+    {
+      "time_step": 510,
+      "insurer_reserve": 8190.81717562722,
+      "model_reserve": 4448.177437571432,
+      "absolute_error": 3742.6397380557883,
+      "relative_error_pct": 45.69311776598398
+    },
+    {
+      "time_step": 511,
+      "insurer_reserve": 7988.60150447242,
+      "model_reserve": 4333.605913797204,
+      "absolute_error": 3654.9955906752157,
+      "relative_error_pct": 45.752633782383135
+    },
+    {
+      "time_step": 512,
+      "insurer_reserve": 7791.40632021093,
+      "model_reserve": 4222.000667482577,
+      "absolute_error": 3569.405652728353,
+      "relative_error_pct": 45.812084571552944
+    },
+    {
+      "time_step": 513,
+      "insurer_reserve": 7599.10629900339,
+      "model_reserve": 4113.284517141735,
+      "absolute_error": 3485.821781861655,
+      "relative_error_pct": 45.87147020589533
+    },
+    {
+      "time_step": 514,
+      "insurer_reserve": 7411.57926164606,
+      "model_reserve": 4007.3822991257725,
+      "absolute_error": 3404.196962520288,
+      "relative_error_pct": 45.93079075786932
+    },
+    {
+      "time_step": 515,
+      "insurer_reserve": 7228.70609427862,
+      "model_reserve": 3904.2208146497896,
+      "absolute_error": 3324.4852796288305,
+      "relative_error_pct": 45.990046299711864
+    },
+    {
+      "time_step": 516,
+      "insurer_reserve": 7042.08126361688,
+      "model_reserve": 3799.2565795858827,
+      "absolute_error": 3242.8246840309976,
+      "relative_error_pct": 46.04923690365725
+    },
+    {
+      "time_step": 517,
+      "insurer_reserve": 6860.33440096929,
+      "model_reserve": 3697.14653694036,
+      "absolute_error": 3163.18786402893,
+      "relative_error_pct": 46.10836264165208
+    },
+    {
+      "time_step": 518,
+      "insurer_reserve": 6683.33652132392,
+      "model_reserve": 3597.812239930042,
+      "absolute_error": 3085.5242813938785,
+      "relative_error_pct": 46.16742358474953
+    },
+    {
+      "time_step": 519,
+      "insurer_reserve": 6510.96208676251,
+      "model_reserve": 3501.177419275061,
+      "absolute_error": 3009.784667487449,
+      "relative_error_pct": 46.22641980371329
+    },
+    {
+      "time_step": 520,
+      "insurer_reserve": 6343.08891345488,
+      "model_reserve": 3407.1679222031767,
+      "absolute_error": 2935.920991251703,
+      "relative_error_pct": 46.28535136917385
+    },
+    {
+      "time_step": 521,
+      "insurer_reserve": 6179.59808118386,
+      "model_reserve": 3315.7116531791526,
+      "absolute_error": 2863.8864280047073,
+      "relative_error_pct": 46.344218351754954
+    },
+    {
+      "time_step": 522,
+      "insurer_reserve": 6015.33488841874,
+      "model_reserve": 3224.037787631952,
+      "absolute_error": 2791.2971007867877,
+      "relative_error_pct": 46.40302082201346
+    },
+    {
+      "time_step": 523,
+      "insurer_reserve": 5855.4623558752,
+      "model_reserve": 3134.9115565156603,
+      "absolute_error": 2720.5507993595397,
+      "relative_error_pct": 46.46175885034627
+    },
+    {
+      "time_step": 524,
+      "insurer_reserve": 5699.86249111975,
+      "model_reserve": 3048.2618079404765,
+      "absolute_error": 2651.600683179274,
+      "relative_error_pct": 46.520432507107046
+    },
+    {
+      "time_step": 525,
+      "insurer_reserve": 5548.4204889727,
+      "model_reserve": 2964.019386699392,
+      "absolute_error": 2584.401102273308,
+      "relative_error_pct": 46.57904186262953
+    },
+    {
+      "time_step": 526,
+      "insurer_reserve": 5401.0246449909,
+      "model_reserve": 2882.1170779892645,
+      "absolute_error": 2518.9075670016355,
+      "relative_error_pct": 46.637586987086955
+    },
+    {
+      "time_step": 527,
+      "insurer_reserve": 5257.56627130979,
+      "model_reserve": 2802.4895527127037,
+      "absolute_error": 2455.0767185970863,
+      "relative_error_pct": 46.69606795057033
+    },
+    {
+      "time_step": 528,
+      "insurer_reserve": 5111.70102580951,
+      "model_reserve": 2721.7515454886025,
+      "absolute_error": 2389.9494803209072,
+      "relative_error_pct": 46.754484823228196
+    },
+    {
+      "time_step": 529,
+      "insurer_reserve": 4969.93230647002,
+      "model_reserve": 2643.3659632846857,
+      "absolute_error": 2326.5663431853345,
+      "relative_error_pct": 46.812837675002825
+    },
+    {
+      "time_step": 530,
+      "insurer_reserve": 4832.14373070762,
+      "model_reserve": 2567.263526349003,
+      "absolute_error": 2264.8802043586174,
+      "relative_error_pct": 46.87112657609106
+    },
+    {
+      "time_step": 531,
+      "insurer_reserve": 4698.22225779943,
+      "model_reserve": 2493.3770156441224,
+      "absolute_error": 2204.8452421553075,
+      "relative_error_pct": 46.9293515966616
+    },
+    {
+      "time_step": 532,
+      "insurer_reserve": 4568.05809199419,
+      "model_reserve": 2421.6412109968796,
+      "absolute_error": 2146.4168809973107,
+      "relative_error_pct": 46.987512806788544
+    },
+    {
+      "time_step": 533,
+      "insurer_reserve": 4441.54458845622,
+      "model_reserve": 2351.9928311164813,
+      "absolute_error": 2089.5517573397383,
+      "relative_error_pct": 47.04561027644708
+    },
+    {
+      "time_step": 534,
+      "insurer_reserve": 4314.58115546814,
+      "model_reserve": 2282.256204643192,
+      "absolute_error": 2032.3249508249482,
+      "relative_error_pct": 47.10364407560754
+    },
+    {
+      "time_step": 535,
+      "insurer_reserve": 4191.26689758102,
+      "model_reserve": 2214.597770147245,
+      "absolute_error": 1976.6691274337754,
+      "relative_error_pct": 47.16161427406605
+    },
+    {
+      "time_step": 536,
+      "insurer_reserve": 4071.49637117039,
+      "model_reserve": 2148.9552895474317,
+      "absolute_error": 1922.5410816229582,
+      "relative_error_pct": 47.219520941641065
+    },
+    {
+      "time_step": 537,
+      "insurer_reserve": 3955.16719507979,
+      "model_reserve": 2085.2683975987816,
+      "absolute_error": 1869.8987974810084,
+      "relative_error_pct": 47.27736414802271
+    },
+    {
+      "time_step": 538,
+      "insurer_reserve": 3842.17996123967,
+      "model_reserve": 2023.478545278553,
+      "absolute_error": 1818.701415961117,
+      "relative_error_pct": 47.33514396276007
+    },
+    {
+      "time_step": 539,
+      "insurer_reserve": 3732.438147907,
+      "model_reserve": 1963.5289448815115,
+      "absolute_error": 1768.9092030254883,
+      "relative_error_pct": 47.39286045550201
+    },
+    {
+      "time_step": 540,
+      "insurer_reserve": 3621.2863944365,
+      "model_reserve": 1902.9673978862324,
+      "absolute_error": 1718.3189965502675,
+      "relative_error_pct": 47.45051369563525
+    },
+    {
+      "time_step": 541,
+      "insurer_reserve": 3513.48475236444,
+      "model_reserve": 1844.294770879282,
+      "absolute_error": 1669.189981485158,
+      "relative_error_pct": 47.50810375260224
+    },
+    {
+      "time_step": 542,
+      "insurer_reserve": 3408.93108626209,
+      "model_reserve": 1787.4515151039088,
+      "absolute_error": 1621.4795711581812,
+      "relative_error_pct": 47.565630695578
+    },
+    {
+      "time_step": 543,
+      "insurer_reserve": 3307.52640792345,
+      "model_reserve": 1732.3799779647861,
+      "absolute_error": 1575.1464299586637,
+      "relative_error_pct": 47.62309459375054
+    },
+    {
+      "time_step": 544,
+      "insurer_reserve": 3209.17477843773,
+      "model_reserve": 1679.0243420977101,
+      "absolute_error": 1530.1504363400197,
+      "relative_error_pct": 47.6804955161999
+    },
+    {
+      "time_step": 545,
+      "insurer_reserve": 3113.78321333556,
+      "model_reserve": 1627.3305664096356,
+      "absolute_error": 1486.4526469259245,
+      "relative_error_pct": 47.737833531885485
+    },
+    {
+      "time_step": 546,
+      "insurer_reserve": 3018.17075964217,
+      "model_reserve": 1575.632764025019,
+      "absolute_error": 1442.5379956171512,
+      "relative_error_pct": 47.79510870975956
+    },
+    {
+      "time_step": 547,
+      "insurer_reserve": 2925.50997090079,
+      "model_reserve": 1525.5855452668136,
+      "absolute_error": 1399.9244256339764,
+      "relative_error_pct": 47.85232111866388
+    },
+    {
+      "time_step": 548,
+      "insurer_reserve": 2835.70924665113,
+      "model_reserve": 1477.135952377485,
+      "absolute_error": 1358.573294273645,
+      "relative_error_pct": 47.90947082738016
+    },
+    {
+      "time_step": 549,
+      "insurer_reserve": 2748.6798435994,
+      "model_reserve": 1430.2327348086276,
+      "absolute_error": 1318.4471087907725,
+      "relative_error_pct": 47.96655790454898
+    },
+    {
+      "time_step": 550,
+      "insurer_reserve": 2664.33578606308,
+      "model_reserve": 1384.826293927781,
+      "absolute_error": 1279.5094921352988,
+      "relative_error_pct": 48.02358241886429
+    },
+    {
+      "time_step": 551,
+      "insurer_reserve": 2582.59377923587,
+      "model_reserve": 1340.8686295355376,
+      "absolute_error": 1241.7251497003324,
+      "relative_error_pct": 48.080544438844356
+    },
+    {
+      "time_step": 552,
+      "insurer_reserve": 2500.13827242384,
+      "model_reserve": 1296.6356107902545,
+      "absolute_error": 1203.5026616335856,
+      "relative_error_pct": 48.13744403291786
+    },
+    {
+      "time_step": 553,
+      "insurer_reserve": 2420.34661338103,
+      "model_reserve": 1253.8779588299917,
+      "absolute_error": 1166.468654551038,
+      "relative_error_pct": 48.19428126955647
+    },
+    {
+      "time_step": 554,
+      "insurer_reserve": 2343.13176077789,
+      "model_reserve": 1212.5459376456222,
+      "absolute_error": 1130.585823132268,
+      "relative_error_pct": 48.251056217040386
+    },
+    {
+      "time_step": 555,
+      "insurer_reserve": 2268.40954783789,
+      "model_reserve": 1172.5915047726205,
+      "absolute_error": 1095.8180430652694,
+      "relative_error_pct": 48.30776894365202
+    },
+    {
+      "time_step": 556,
+      "insurer_reserve": 2196.0985864697,
+      "model_reserve": 1133.9682530895846,
+      "absolute_error": 1062.1303333801154,
+      "relative_error_pct": 48.36441951759208
+    },
+    {
+      "time_step": 557,
+      "insurer_reserve": 2126.12017462503,
+      "model_reserve": 1096.6313546313818,
+      "absolute_error": 1029.4888199936481,
+      "relative_error_pct": 48.42100800700094
+    },
+    {
+      "time_step": 558,
+      "insurer_reserve": 2056.07205443203,
+      "model_reserve": 1059.3390153133307,
+      "absolute_error": 996.7330391186995,
+      "relative_error_pct": 48.477534479891425
+    },
+    {
+      "time_step": 559,
+      "insurer_reserve": 1988.3438878514,
+      "model_reserve": 1023.321085120765,
+      "absolute_error": 965.022802730635,
+      "relative_error_pct": 48.53399900423847
+    },
+    {
+      "time_step": 560,
+      "insurer_reserve": 1922.85844216319,
+      "model_reserve": 988.5338019945464,
+      "absolute_error": 934.3246401686436,
+      "relative_error_pct": 48.59040164795183
+    },
+    {
+      "time_step": 561,
+      "insurer_reserve": 1859.54106872543,
+      "model_reserve": 954.9349137340226,
+      "absolute_error": 904.6061549914074,
+      "relative_error_pct": 48.64674247885497
+    },
+    {
+      "time_step": 562,
+      "insurer_reserve": 1798.31961609503,
+      "model_reserve": 922.483625666381,
+      "absolute_error": 875.8359904286489,
+      "relative_error_pct": 48.70302156468088
+    },
+    {
+      "time_step": 563,
+      "insurer_reserve": 1739.12434608314,
+      "model_reserve": 891.1405501376187,
+      "absolute_error": 847.9837959455213,
+      "relative_error_pct": 48.75923897307012
+    },
+    {
+      "time_step": 564,
+      "insurer_reserve": 1679.66715938549,
+      "model_reserve": 859.7310046805069,
+      "absolute_error": 819.9361547049832,
+      "relative_error_pct": 48.815394771721245
+    },
+    {
+      "time_step": 565,
+      "insurer_reserve": 1622.2663087544,
+      "model_reserve": 829.4406076656538,
+      "absolute_error": 792.8257010887461,
+      "relative_error_pct": 48.87148902805541
+    },
+    {
+      "time_step": 566,
+      "insurer_reserve": 1566.84987472212,
+      "model_reserve": 800.2290605439624,
+      "absolute_error": 766.6208141781575,
+      "relative_error_pct": 48.92752180958737
+    },
+    {
+      "time_step": 567,
+      "insurer_reserve": 1513.34848001627,
+      "model_reserve": 772.057530463225,
+      "absolute_error": 741.290949553045,
+      "relative_error_pct": 48.98349318361065
+    },
+    {
+      "time_step": 568,
+      "insurer_reserve": 1461.69519880899,
+      "model_reserve": 744.8885964541748,
+      "absolute_error": 716.8066023548151,
+      "relative_error_pct": 49.03940321750248
+    },
+    {
+      "time_step": 569,
+      "insurer_reserve": 1411.82546923492,
+      "model_reserve": 718.6861976180646,
+      "absolute_error": 693.1392716168555,
+      "relative_error_pct": 49.095251978452644
+    },
+    {
+      "time_step": 570,
+      "insurer_reserve": 1361.97613215141,
+      "model_reserve": 692.5507049996639,
+      "absolute_error": 669.425427151746,
+      "relative_error_pct": 49.15103953358607
+    },
+    {
+      "time_step": 571,
+      "insurer_reserve": 1313.89589138944,
+      "model_reserve": 667.3702152860901,
+      "absolute_error": 646.52567610335,
+      "relative_error_pct": 49.2067659500519
+    },
+    {
+      "time_step": 572,
+      "insurer_reserve": 1267.52164598716,
+      "model_reserve": 643.1096659867711,
+      "absolute_error": 624.4119800003888,
+      "relative_error_pct": 49.262431294740516
+    },
+    {
+      "time_step": 573,
+      "insurer_reserve": 1222.79255686516,
+      "model_reserve": 619.7352879324075,
+      "absolute_error": 603.0572689327524,
+      "relative_error_pct": 49.31803563466186
+    },
+    {
+      "time_step": 574,
+      "insurer_reserve": 1179.6499653577,
+      "model_reserve": 597.2145573558145,
+      "absolute_error": 582.4354080018855,
+      "relative_error_pct": 49.373579036665866
+    },
+    {
+      "time_step": 575,
+      "insurer_reserve": 1138.03731469195,
+      "model_reserve": 575.51614975175,
+      "absolute_error": 562.5211649402,
+      "relative_error_pct": 49.429061567499325
+    },
+    {
+      "time_step": 576,
+      "insurer_reserve": 1096.42705753597,
+      "model_reserve": 553.8657934198894,
+      "absolute_error": 542.5612641160807,
+      "relative_error_pct": 49.48448329389035
+    },
+    {
+      "time_step": 577,
+      "insurer_reserve": 1056.35542110004,
+      "model_reserve": 533.0385904171972,
+      "absolute_error": 523.3168306828429,
+      "relative_error_pct": 49.53984428251287
+    },
+    {
+      "time_step": 578,
+      "insurer_reserve": 1017.76488210423,
+      "model_reserve": 513.002917138229,
+      "absolute_error": 504.76196496600096,
+      "relative_error_pct": 49.595144599841674
+    },
+    {
+      "time_step": 579,
+      "insurer_reserve": 980.600090626247,
+      "model_reserve": 493.72837706242706,
+      "absolute_error": 486.87171356382,
+      "relative_error_pct": 49.65038431241485
+    },
+    {
+      "time_step": 580,
+      "insurer_reserve": 944.80778717237,
+      "model_reserve": 475.1857526920464,
+      "absolute_error": 469.62203448032363,
+      "relative_error_pct": 49.70556348670803
+    },
+    {
+      "time_step": 581,
+      "insurer_reserve": 910.336722941552,
+      "model_reserve": 457.3469593891824,
+      "absolute_error": 452.9897635523696,
+      "relative_error_pct": 49.76068218896336
+    },
+    {
+      "time_step": 582,
+      "insurer_reserve": 875.931419336457,
+      "model_reserve": 439.5796966486659,
+      "absolute_error": 436.3517226877911,
+      "relative_error_pct": 49.81574048552111
+    },
+    {
+      "time_step": 583,
+      "insurer_reserve": 842.83286862926,
+      "model_reserve": 422.5058932072814,
+      "absolute_error": 420.3269754219786,
+      "relative_error_pct": 49.87073844255466
+    },
+    {
+      "time_step": 584,
+      "insurer_reserve": 810.991194039604,
+      "model_reserve": 406.0983570914302,
+      "absolute_error": 404.8928369481738,
+      "relative_error_pct": 49.925676126194936
+    },
+    {
+      "time_step": 585,
+      "insurer_reserve": 780.358431772113,
+      "model_reserve": 390.3309674883008,
+      "absolute_error": 390.0274642838122,
+      "relative_error_pct": 49.98055360254137
+    },
+    {
+      "time_step": 586,
+      "insurer_reserve": 750.888457296518,
+      "model_reserve": 375.1786323612633,
+      "absolute_error": 375.70982493525474,
+      "relative_error_pct": 50.03537093750941
+    },
+    {
+      "time_step": 587,
+      "insurer_reserve": 722.536914481758,
+      "model_reserve": 360.6172477470253,
+      "absolute_error": 361.9196667347327,
+      "relative_error_pct": 50.09012819702379
+    },
+    {
+      "time_step": 588,
+      "insurer_reserve": 694.318873746809,
+      "model_reserve": 346.1538864610206,
+      "absolute_error": 348.1649872857884,
+      "relative_error_pct": 50.144825446981955
+    },
+    {
+      "time_step": 589,
+      "insurer_reserve": 667.214954110128,
+      "model_reserve": 332.27663173866466,
+      "absolute_error": 334.93832237146336,
+      "relative_error_pct": 50.19946275307547
+    },
+    {
+      "time_step": 590,
+      "insurer_reserve": 641.180690699616,
+      "model_reserve": 318.9614887625618,
+      "absolute_error": 322.21920193705415,
+      "relative_error_pct": 50.254040181008705
+    },
+    {
+      "time_step": 591,
+      "insurer_reserve": 616.173411823422,
+      "model_reserve": 306.18545480981726,
+      "absolute_error": 309.9879570136048,
+      "relative_error_pct": 50.30855779645984
+    },
+    {
+      "time_step": 592,
+      "insurer_reserve": 592.152165938179,
+      "model_reserve": 293.92647784655674,
+      "absolute_error": 298.22568809162226,
+      "relative_error_pct": 50.363015664922386
+    },
+    {
+      "time_step": 593,
+      "insurer_reserve": 569.077651618966,
+      "model_reserve": 282.1634168635431,
+      "absolute_error": 286.9142347554229,
+      "relative_error_pct": 50.41741385190266
+    },
+    {
+      "time_step": 594,
+      "insurer_reserve": 546.084131306602,
+      "model_reserve": 270.4659005334336,
+      "absolute_error": 275.61823077316836,
+      "relative_error_pct": 50.47175242278208
+    },
+    {
+      "time_step": 595,
+      "insurer_reserve": 524.024093757051,
+      "model_reserve": 259.2555153767562,
+      "absolute_error": 264.7685783802948,
+      "relative_error_pct": 50.52603144294493
+    },
+    {
+      "time_step": 596,
+      "insurer_reserve": 502.859460532349,
+      "model_reserve": 248.5118833307634,
+      "absolute_error": 254.34757720158558,
+      "relative_error_pct": 50.580250977543926
+    },
+    {
+      "time_step": 597,
+      "insurer_reserve": 482.553713858312,
+      "model_reserve": 238.2154826438845,
+      "absolute_error": 244.33823121442748,
+      "relative_error_pct": 50.63441109193708
+    },
+    {
+      "time_step": 598,
+      "insurer_reserve": 463.071832361204,
+      "model_reserve": 228.34761173571658,
+      "absolute_error": 234.7242206254874,
+      "relative_error_pct": 50.68851185109408
+    },
+    {
+      "time_step": 599,
+      "insurer_reserve": 444.380229462602,
+      "model_reserve": 218.89035458342732,
+      "absolute_error": 225.4898748791747,
+      "relative_error_pct": 50.74255332012952
+    },
+    {
+      "time_step": 600,
+      "insurer_reserve": 425.866533281548,
+      "model_reserve": 209.54108824783557,
+      "absolute_error": 216.32544503371244,
+      "relative_error_pct": 50.79653556404157
+    },
+    {
+      "time_step": 601,
+      "insurer_reserve": 408.132310065108,
+      "model_reserve": 200.59515850766843,
+      "absolute_error": 207.53715155743959,
+      "relative_error_pct": 50.85045864767037
+    },
+    {
+      "time_step": 602,
+      "insurer_reserve": 391.14439599633,
+      "model_reserve": 192.03499068604333,
+      "absolute_error": 199.10940531028666,
+      "relative_error_pct": 50.90432263591854
+    },
+    {
+      "time_step": 603,
+      "insurer_reserve": 374.871052786216,
+      "model_reserve": 183.84378339636842,
+      "absolute_error": 191.0272693898476,
+      "relative_error_pct": 50.9581275934869
+    },
+    {
+      "time_step": 604,
+      "insurer_reserve": 359.28190579491,
+      "model_reserve": 176.00547419650027,
+      "absolute_error": 183.27643159840974,
+      "relative_error_pct": 51.011873585147924
+    },
+    {
+      "time_step": 605,
+      "insurer_reserve": 344.34788486372,
+      "model_reserve": 168.50470678416076,
+      "absolute_error": 175.84317807955927,
+      "relative_error_pct": 51.06556067540574
+    },
+    {
+      "time_step": 606,
+      "insurer_reserve": 329.491931135416,
+      "model_reserve": 161.05832835261234,
+      "absolute_error": 168.43360278280366,
+      "relative_error_pct": 51.11918892896351
+    },
+    {
+      "time_step": 607,
+      "insurer_reserve": 315.279825969258,
+      "model_reserve": 153.94244231002423,
+      "absolute_error": 161.33738365923378,
+      "relative_error_pct": 51.172758410163965
+    },
+    {
+      "time_step": 608,
+      "insurer_reserve": 301.683536705602,
+      "model_reserve": 147.14231611047674,
+      "absolute_error": 154.54122059512528,
+      "relative_error_pct": 51.226269183503504
+    },
+    {
+      "time_step": 609,
+      "insurer_reserve": 288.67625682834,
+      "model_reserve": 140.6438768291872,
+      "absolute_error": 148.0323799991528,
+      "relative_error_pct": 51.279721313270166
+    },
+    {
+      "time_step": 610,
+      "insurer_reserve": 276.23235208887,
+      "model_reserve": 134.43368150014837,
+      "absolute_error": 141.79867058872165,
+      "relative_error_pct": 51.33311486378753
+    },
+    {
+      "time_step": 611,
+      "insurer_reserve": 264.327309007949,
+      "model_reserve": 128.49888879481597,
+      "absolute_error": 135.82842021313303,
+      "relative_error_pct": 51.38644989914694
+    },
+    {
+      "time_step": 612,
+      "insurer_reserve": 252.59455250951,
+      "model_reserve": 122.66060558601768,
+      "absolute_error": 129.93394692349233,
+      "relative_error_pct": 51.43972648365028
+    },
+    {
+      "time_step": 613,
+      "insurer_reserve": 241.38785860699,
+      "model_reserve": 117.09014210742657,
+      "absolute_error": 124.29771649956342,
+      "relative_error_pct": 51.49294468117216
+    },
+    {
+      "time_step": 614,
+      "insurer_reserve": 230.683399519565,
+      "model_reserve": 111.77509321027888,
+      "absolute_error": 118.90830630928612,
+      "relative_error_pct": 51.54610455582485
+    },
+    {
+      "time_step": 615,
+      "insurer_reserve": 220.458437599379,
+      "model_reserve": 106.7036338600869,
+      "absolute_error": 113.75480373929211,
+      "relative_error_pct": 51.599206171464104
+    },
+    {
+      "time_step": 616,
+      "insurer_reserve": 210.691274971975,
+      "model_reserve": 101.86449175496091,
+      "absolute_error": 108.82678321701408,
+      "relative_error_pct": 51.652249591963226
+    },
+    {
+      "time_step": 617,
+      "insurer_reserve": 201.361205524594,
+      "model_reserve": 97.2469212486672,
+      "absolute_error": 104.11428427592679,
+      "relative_error_pct": 51.70523488111041
+    },
+    {
+      "time_step": 618,
+      "insurer_reserve": 192.097128108476,
+      "model_reserve": 92.67118514777285,
+      "absolute_error": 99.42594296070315,
+      "relative_error_pct": 51.758162102536986
+    },
+    {
+      "time_step": 619,
+      "insurer_reserve": 183.261118915101,
+      "model_reserve": 88.31164319659372,
+      "absolute_error": 94.94947571850729,
+      "relative_error_pct": 51.81103132001192
+    },
+    {
+      "time_step": 620,
+      "insurer_reserve": 174.833310741554,
+      "model_reserve": 84.15803765144197,
+      "absolute_error": 90.67527309011201,
+      "relative_error_pct": 51.86384259699346
+    },
+    {
+      "time_step": 621,
+      "insurer_reserve": 166.794762543407,
+      "model_reserve": 80.20059952958584,
+      "absolute_error": 86.59416301382115,
+      "relative_error_pct": 51.916595997003036
+    },
+    {
+      "time_step": 622,
+      "insurer_reserve": 159.12741606828,
+      "model_reserve": 76.43002522243336,
+      "absolute_error": 82.69739084584666,
+      "relative_error_pct": 51.96929158352073
+    },
+    {
+      "time_step": 623,
+      "insurer_reserve": 151.814054528899,
+      "model_reserve": 72.83745423248438,
+      "absolute_error": 78.97660029641462,
+      "relative_error_pct": 52.02192941983563
+    },
+    {
+      "time_step": 624,
+      "insurer_reserve": 144.643704408595,
+      "model_reserve": 69.32120471499753,
+      "absolute_error": 75.32249969359746,
+      "relative_error_pct": 52.07450956926796
+    },
+    {
+      "time_step": 625,
+      "insurer_reserve": 137.815284348813,
+      "model_reserve": 65.9762668444343,
+      "absolute_error": 71.8390175043787,
+      "relative_error_pct": 52.12703209504167
+    },
+    {
+      "time_step": 626,
+      "insurer_reserve": 131.312328945213,
+      "model_reserve": 62.79421612342693,
+      "absolute_error": 68.51811282178608,
+      "relative_error_pct": 52.179497060305465
+    },
+    {
+      "time_step": 627,
+      "insurer_reserve": 125.119173426753,
+      "model_reserve": 59.76704621610268,
+      "absolute_error": 65.35212721065031,
+      "relative_error_pct": 52.231904528132624
+    },
+    {
+      "time_step": 628,
+      "insurer_reserve": 119.220914352464,
+      "model_reserve": 56.88714800176691,
+      "absolute_error": 62.3337663506971,
+      "relative_error_pct": 52.284254561589684
+    },
+    {
+      "time_step": 629,
+      "insurer_reserve": 113.603372255334,
+      "model_reserve": 54.14728968739534,
+      "absolute_error": 59.45608256793865,
+      "relative_error_pct": 52.33654722353281
+    },
+    {
+      "time_step": 630,
+      "insurer_reserve": 108.036734309272,
+      "model_reserve": 51.43760446885162,
+      "absolute_error": 56.59912984042039,
+      "relative_error_pct": 52.388782576856265
+    },
+    {
+      "time_step": 631,
+      "insurer_reserve": 102.743985760392,
+      "model_reserve": 48.864052582157726,
+      "absolute_error": 53.87993317823427,
+      "relative_error_pct": 52.44096068444046
+    },
+    {
+      "time_step": 632,
+      "insurer_reserve": 97.7115941635099,
+      "model_reserve": 46.41976729788809,
+      "absolute_error": 51.29182686562181,
+      "relative_error_pct": 52.49308160891369
+    },
+    {
+      "time_step": 633,
+      "insurer_reserve": 92.9266985329415,
+      "model_reserve": 44.09822966125086,
+      "absolute_error": 48.82846887169064,
+      "relative_error_pct": 52.54514541306068
+    },
+    {
+      "time_step": 634,
+      "insurer_reserve": 88.3770758834157,
+      "model_reserve": 41.89325080702769,
+      "absolute_error": 46.48382507638801,
+      "relative_error_pct": 52.597152159354124
+    },
+    {
+      "time_step": 635,
+      "insurer_reserve": 84.0511094453562,
+      "model_reserve": 39.79895517661641,
+      "absolute_error": 44.252154268739794,
+      "relative_error_pct": 52.64910191043851
+    },
+    {
+      "time_step": 636,
+      "insurer_reserve": 79.8322125139584,
+      "model_reserve": 37.75984240516182,
+      "absolute_error": 42.07237010879658,
+      "relative_error_pct": 52.7009947287135
+    },
+    {
+      "time_step": 637,
+      "insurer_reserve": 75.8270097172718,
+      "model_reserve": 35.826115674002374,
+      "absolute_error": 40.00089404326943,
+      "relative_error_pct": 52.75283067658418
+    },
+    {
+      "time_step": 638,
+      "insurer_reserve": 72.0245758394233,
+      "model_reserve": 33.99227959551204,
+      "absolute_error": 38.03229624391127,
+      "relative_error_pct": 52.80460981638152
+    },
+    {
+      "time_step": 639,
+      "insurer_reserve": 68.4145494881708,
+      "model_reserve": 32.253127930487516,
+      "absolute_error": 36.16142155768329,
+      "relative_error_pct": 52.856332210352086
+    },
+    {
+      "time_step": 640,
+      "insurer_reserve": 64.9871037259382,
+      "model_reserve": 30.603728237907017,
+      "absolute_error": 34.38337548803118,
+      "relative_error_pct": 52.907997920682526
+    },
+    {
+      "time_step": 641,
+      "insurer_reserve": 61.7329182445037,
+      "model_reserve": 29.03940734669357,
+      "absolute_error": 32.69351089781013,
+      "relative_error_pct": 52.95960700954056
+    },
+    {
+      "time_step": 642,
+      "insurer_reserve": 58.5152106155395,
+      "model_reserve": 27.4956189616034,
+      "absolute_error": 31.0195916539361,
+      "relative_error_pct": 53.011159538915564
+    },
+    {
+      "time_step": 643,
+      "insurer_reserve": 55.4658655096874,
+      "model_reserve": 26.0342043349088,
+      "absolute_error": 29.431661174778597,
+      "relative_error_pct": 53.062655570818066
+    },
+    {
+      "time_step": 644,
+      "insurer_reserve": 52.5760386994984,
+      "model_reserve": 24.65075146951877,
+      "absolute_error": 27.925287229979627,
+      "relative_error_pct": 53.11409516716985
+    },
+    {
+      "time_step": 645,
+      "insurer_reserve": 49.8373524278454,
+      "model_reserve": 23.34108559277298,
+      "absolute_error": 26.496266835072422,
+      "relative_error_pct": 53.16547838979561
+    },
+    {
+      "time_step": 646,
+      "insurer_reserve": 47.2418707044414,
+      "model_reserve": 22.101256351322693,
+      "absolute_error": 25.14061435311871,
+      "relative_error_pct": 53.21680530054695
+    },
+    {
+      "time_step": 647,
+      "insurer_reserve": 44.7820759159748,
+      "model_reserve": 20.92752570011425,
+      "absolute_error": 23.854550215860552,
+      "relative_error_pct": 53.26807596105897
+    },
+    {
+      "time_step": 648,
+      "insurer_reserve": 42.3961751953451,
+      "model_reserve": 19.790835410465018,
+      "absolute_error": 22.605339784880083,
+      "relative_error_pct": 53.31929043297765
+    },
+    {
+      "time_step": 649,
+      "insurer_reserve": 40.1384753148511,
+      "model_reserve": 18.716390906687383,
+      "absolute_error": 21.422084408163716,
+      "relative_error_pct": 53.370448777952504
+    },
+    {
+      "time_step": 650,
+      "insurer_reserve": 38.002026738884,
+      "model_reserve": 17.700754621717973,
+      "absolute_error": 20.301272117166025,
+      "relative_error_pct": 53.42155105741661
+    },
+    {
+      "time_step": 651,
+      "insurer_reserve": 35.9802600504746,
+      "model_reserve": 16.740680474364552,
+      "absolute_error": 19.239579576110046,
+      "relative_error_pct": 53.47259733287076
+    },
+    {
+      "time_step": 652,
+      "insurer_reserve": 34.0669649723276,
+      "model_reserve": 15.83310311033426,
+      "absolute_error": 18.233861861993336,
+      "relative_error_pct": 53.523587665659676
+    },
+    {
+      "time_step": 653,
+      "insurer_reserve": 32.2562705559675,
+      "model_reserve": 14.975127752817924,
+      "absolute_error": 17.28114280314957,
+      "relative_error_pct": 53.57452211707256
+    },
+    {
+      "time_step": 654,
+      "insurer_reserve": 30.4700822754946,
+      "model_reserve": 14.130378546890354,
+      "absolute_error": 16.33970372860425,
+      "relative_error_pct": 53.62540074841008
+    },
+    {
+      "time_step": 655,
+      "insurer_reserve": 28.7831579804528,
+      "model_reserve": 13.333445737731036,
+      "absolute_error": 15.449712242721763,
+      "relative_error_pct": 53.676223620820075
+    },
+    {
+      "time_step": 656,
+      "insurer_reserve": 27.1899608487789,
+      "model_reserve": 12.58161308629324,
+      "absolute_error": 14.608347762485659,
+      "relative_error_pct": 53.72699079536085
+    },
+    {
+      "time_step": 657,
+      "insurer_reserve": 25.6852640689246,
+      "model_reserve": 11.872319214445191,
+      "absolute_error": 13.812944854479408,
+      "relative_error_pct": 53.77770233318739
+    },
+    {
+      "time_step": 658,
+      "insurer_reserve": 24.2641334149571,
+      "model_reserve": 11.203148743145265,
+      "absolute_error": 13.060984671811836,
+      "relative_error_pct": 53.82835829513151
+    },
+    {
+      "time_step": 659,
+      "insurer_reserve": 22.9219108049029,
+      "model_reserve": 10.571823939403862,
+      "absolute_error": 12.350086865499039,
+      "relative_error_pct": 53.87895874220664
+    },
+    {
+      "time_step": 660,
+      "insurer_reserve": 21.6272128042138,
+      "model_reserve": 9.963764267147186,
+      "absolute_error": 11.663448537066616,
+      "relative_error_pct": 53.929503735192974
+    },
+    {
+      "time_step": 661,
+      "insurer_reserve": 20.4062226827575,
+      "model_reserve": 9.390945038695708,
+      "absolute_error": 11.015277644061793,
+      "relative_error_pct": 53.97999333492177
+    },
+    {
+      "time_step": 662,
+      "insurer_reserve": 19.254709395975,
+      "model_reserve": 8.851307575802538,
+      "absolute_error": 10.40340182017246,
+      "relative_error_pct": 54.0304276020244
+    },
+    {
+      "time_step": 663,
+      "insurer_reserve": 18.168686848592,
+      "model_reserve": 8.342914452751279,
+      "absolute_error": 9.82577239584072,
+      "relative_error_pct": 54.08080659721525
+    },
+    {
+      "time_step": 664,
+      "insurer_reserve": 17.1443995910131,
+      "model_reserve": 7.8639422953597755,
+      "absolute_error": 9.280457295653326,
+      "relative_error_pct": 54.13113038101396
+    },
+    {
+      "time_step": 665,
+      "insurer_reserve": 16.1783093581537,
+      "model_reserve": 7.412675011097223,
+      "absolute_error": 8.765634347056478,
+      "relative_error_pct": 54.181399013974776
+    },
+    {
+      "time_step": 666,
+      "insurer_reserve": 15.2277279930079,
+      "model_reserve": 6.969485546688499,
+      "absolute_error": 8.2582424463194,
+      "relative_error_pct": 54.23161255645839
+    },
+    {
+      "time_step": 667,
+      "insurer_reserve": 14.3331835725518,
+      "model_reserve": 6.552877678806883,
+      "absolute_error": 7.7803058937449165,
+      "relative_error_pct": 54.28177106895
+    },
+    {
+      "time_step": 668,
+      "insurer_reserve": 13.4913613825578,
+      "model_reserve": 6.161251832780492,
+      "absolute_error": 7.330109549777308,
+      "relative_error_pct": 54.33187461166064
+    },
+    {
+      "time_step": 669,
+      "insurer_reserve": 12.6991434763622,
+      "model_reserve": 5.793105018286977,
+      "absolute_error": 6.906038458075224,
+      "relative_error_pct": 54.38192324490162
+    },
+    {
+      "time_step": 670,
+      "insurer_reserve": 11.9535969519284,
+      "model_reserve": 5.4470249770945465,
+      "absolute_error": 6.506571974833854,
+      "relative_error_pct": 54.431917028825275
+    },
+    {
+      "time_step": 671,
+      "insurer_reserve": 11.2519629299183,
+      "model_reserve": 5.121684686620464,
+      "absolute_error": 6.130278243297836,
+      "relative_error_pct": 54.48185602351916
+    },
+    {
+      "time_step": 672,
+      "insurer_reserve": 10.5789781955032,
+      "model_reserve": 4.810077280698775,
+      "absolute_error": 5.7689009148044255,
+      "relative_error_pct": 54.53174028902534
+    },
+    {
+      "time_step": 673,
+      "insurer_reserve": 9.94653836384857,
+      "model_reserve": 4.517561575608336,
+      "absolute_error": 5.4289767882402336,
+      "relative_error_pct": 54.581569885380944
+    },
+    {
+      "time_step": 674,
+      "insurer_reserve": 9.35218193598875,
+      "model_reserve": 4.242959169438319,
+      "absolute_error": 5.10922276655043,
+      "relative_error_pct": 54.63134487246546
+    },
+    {
+      "time_step": 675,
+      "insurer_reserve": 8.79359804946586,
+      "model_reserve": 3.9851649569296828,
+      "absolute_error": 4.808433092536177,
+      "relative_error_pct": 54.6810653101008
+    },
+    {
+      "time_step": 676,
+      "insurer_reserve": 8.26861718414335,
+      "model_reserve": 3.743142534329334,
+      "absolute_error": 4.525474649814017,
+      "relative_error_pct": 54.73073125809328
+    },
+    {
+      "time_step": 677,
+      "insurer_reserve": 7.77520244620865,
+      "model_reserve": 3.515919894635078,
+      "absolute_error": 4.2592825515735715,
+      "relative_error_pct": 54.78034277616123
+    },
+    {
+      "time_step": 678,
+      "insurer_reserve": 7.2910563035051,
+      "model_reserve": 3.2933774288940008,
+      "absolute_error": 3.9976788746110996,
+      "relative_error_pct": 54.82989992395555
+    },
+    {
+      "time_step": 679,
+      "insurer_reserve": 6.83714759627703,
+      "model_reserve": 3.084961829547557,
+      "absolute_error": 3.752185766729473,
+      "relative_error_pct": 54.87940276106686
+    },
+    {
+      "time_step": 680,
+      "insurer_reserve": 6.41158190055857,
+      "model_reserve": 2.8897736094121647,
+      "absolute_error": 3.5218082911464053,
+      "relative_error_pct": 54.92885134695993
+    },
+    {
+      "time_step": 681,
+      "insurer_reserve": 6.01258386914998,
+      "model_reserve": 2.70697073417235,
+      "absolute_error": 3.3056131349776297,
+      "relative_error_pct": 54.97824574121002
+    },
+    {
+      "time_step": 682,
+      "insurer_reserve": 5.63848972160021,
+      "model_reserve": 2.5357649407724336,
+      "absolute_error": 3.102724780827776,
+      "relative_error_pct": 55.02758600306926
+    },
+    {
+      "time_step": 683,
+      "insurer_reserve": 5.28774020947731,
+      "model_reserve": 2.375418292460884,
+      "absolute_error": 2.9123219170164254,
+      "relative_error_pct": 55.076872191954884
+    },
+    {
+      "time_step": 684,
+      "insurer_reserve": 4.95322966404736,
+      "model_reserve": 2.2227071099052047,
+      "absolute_error": 2.730522554142155,
+      "relative_error_pct": 55.12610436704449
+    },
+    {
+      "time_step": 685,
+      "insurer_reserve": 4.64002125935745,
+      "model_reserve": 2.0798764173785274,
+      "absolute_error": 2.560144841978923,
+      "relative_error_pct": 55.175282587680464
+    },
+    {
+      "time_step": 686,
+      "insurer_reserve": 4.34674884187022,
+      "model_reserve": 1.9462825739562275,
+      "absolute_error": 2.400466267913992,
+      "relative_error_pct": 55.22440691284971
+    },
+    {
+      "time_step": 687,
+      "insurer_reserve": 4.07213452426968,
+      "model_reserve": 1.8213241682328154,
+      "absolute_error": 2.250810356036865,
+      "relative_error_pct": 55.27347740164694
+    },
+    {
+      "time_step": 688,
+      "insurer_reserve": 3.81498293870743,
+      "model_reserve": 1.7044392270244926,
+      "absolute_error": 2.1105437116829373,
+      "relative_error_pct": 55.32249411311966
+    },
+    {
+      "time_step": 689,
+      "insurer_reserve": 3.57417586714294,
+      "model_reserve": 1.5951026099689347,
+      "absolute_error": 1.9790732571740053,
+      "relative_error_pct": 55.37145710616643
+    },
+    {
+      "time_step": 690,
+      "insurer_reserve": 3.33860509176547,
+      "model_reserve": 1.4883379159357915,
+      "absolute_error": 1.8502671758296787,
+      "relative_error_pct": 55.42036643966324
+    },
+    {
+      "time_step": 691,
+      "insurer_reserve": 3.11860273428269,
+      "model_reserve": 1.3887380549291475,
+      "absolute_error": 1.7298646793535424,
+      "relative_error_pct": 55.46922217239153
+    },
+    {
+      "time_step": 692,
+      "insurer_reserve": 2.91313697028938,
+      "model_reserve": 1.2958208773909183,
+      "absolute_error": 1.6173160928984618,
+      "relative_error_pct": 55.51802436319373
+    },
+    {
+      "time_step": 693,
+      "insurer_reserve": 2.72124456553081,
+      "model_reserve": 1.209136773105903,
+      "absolute_error": 1.5121077924249071,
+      "relative_error_pct": 55.566773070613486
+    },
+    {
+      "time_step": 694,
+      "insurer_reserve": 2.54202630224892,
+      "model_reserve": 1.1282664685874237,
+      "absolute_error": 1.4137598336614963,
+      "relative_error_pct": 55.615468353366325
+    },
+    {
+      "time_step": 695,
+      "insurer_reserve": 2.37464271148144,
+      "model_reserve": 1.0528189740450695,
+      "absolute_error": 1.3218237374363706,
+      "relative_error_pct": 55.66411026995047
+    },
+    {
+      "time_step": 696,
+      "insurer_reserve": 2.21592768396372,
+      "model_reserve": 0.981374566023718,
+      "absolute_error": 1.2345531179400022,
+      "relative_error_pct": 55.712698878859925
+    },
+    {
+      "time_step": 697,
+      "insurer_reserve": 2.06788424803741,
+      "model_reserve": 0.9148064687086137,
+      "absolute_error": 1.1530777793287963,
+      "relative_error_pct": 55.76123423848123
+    },
+    {
+      "time_step": 698,
+      "insurer_reserve": 1.92979025775831,
+      "model_reserve": 0.8527797876480591,
+      "absolute_error": 1.0770104701102508,
+      "relative_error_pct": 55.80971640728105
+    },
+    {
+      "time_step": 699,
+      "insurer_reserve": 1.80097276830511,
+      "model_reserve": 0.79498277998852,
+      "absolute_error": 1.00598998831659,
+      "relative_error_pct": 55.85814544343856
+    },
+    {
+      "time_step": 700,
+      "insurer_reserve": 1.680804659866,
+      "model_reserve": 0.74112524291781,
+      "absolute_error": 0.93967941694819,
+      "relative_error_pct": 55.906521405236035
+    },
+    {
+      "time_step": 701,
+      "insurer_reserve": 1.56870149489761,
+      "model_reserve": 0.6909370150988472,
+      "absolute_error": 0.8777644797987627,
+      "relative_error_pct": 55.95484435080843
+    },
+    {
+      "time_step": 702,
+      "insurer_reserve": 1.45939513872029,
+      "model_reserve": 0.6420884105355721,
+      "absolute_error": 0.8173067281847178,
+      "relative_error_pct": 56.00311433827273
+    },
+    {
+      "time_step": 703,
+      "insurer_reserve": 1.35772368064618,
+      "model_reserve": 0.5967014805622499,
+      "absolute_error": 0.7610222000839302,
+      "relative_error_pct": 56.051331425679905
+    },
+    {
+      "time_step": 704,
+      "insurer_reserve": 1.26315246601764,
+      "model_reserve": 0.5545303030256045,
+      "absolute_error": 0.7086221629920356,
+      "relative_error_pct": 56.09949567102691
+    },
+    {
+      "time_step": 705,
+      "insurer_reserve": 1.17518438176792,
+      "model_reserve": 0.5153464720144758,
+      "absolute_error": 0.6598379097534441,
+      "relative_error_pct": 56.14760713215057
+    },
+    {
+      "time_step": 706,
+      "insurer_reserve": 1.09335721295084,
+      "model_reserve": 0.4789378468288549,
+      "absolute_error": 0.6144193661219851,
+      "relative_error_pct": 56.195665866943976
+    },
+    {
+      "time_step": 707,
+      "insurer_reserve": 1.01724118595439,
+      "model_reserve": 0.44510739055687265,
+      "absolute_error": 0.5721337953975173,
+      "relative_error_pct": 56.24367193319383
+    },
+    {
+      "time_step": 708,
+      "insurer_reserve": 0.945485899079289,
+      "model_reserve": 0.41325651866738217,
+      "absolute_error": 0.5322293804119069,
+      "relative_error_pct": 56.291625388616595
+    },
+    {
+      "time_step": 709,
+      "insurer_reserve": 0.878819184021857,
+      "model_reserve": 0.38369661879062616,
+      "absolute_error": 0.4951225652312308,
+      "relative_error_pct": 56.33952629087313
+    },
+    {
+      "time_step": 710,
+      "insurer_reserve": 0.816878095478691,
+      "model_reserve": 0.3562619829591594,
+      "absolute_error": 0.46061611251953155,
+      "relative_error_pct": 56.38737469751962
+    },
+    {
+      "time_step": 711,
+      "insurer_reserve": 0.759325735629065,
+      "model_reserve": 0.33079896081468946,
+      "absolute_error": 0.42852677481437557,
+      "relative_error_pct": 56.43517066616498
+    },
+    {
+      "time_step": 712,
+      "insurer_reserve": 0.705849372553751,
+      "model_reserve": 0.30716507669049853,
+      "absolute_error": 0.3986842958632525,
+      "relative_error_pct": 56.48291425418706
+    },
+    {
+      "time_step": 713,
+      "insurer_reserve": 0.656158695501115,
+      "model_reserve": 0.28522821176830704,
+      "absolute_error": 0.370930483732808,
+      "relative_error_pct": 56.53060551906953
+    },
+    {
+      "time_step": 714,
+      "insurer_reserve": 0.607879610900016,
+      "model_reserve": 0.2639519982694244,
+      "absolute_error": 0.3439276126305916,
+      "relative_error_pct": 56.57824451808449
+    },
+    {
+      "time_step": 715,
+      "insurer_reserve": 0.563160447631676,
+      "model_reserve": 0.24426616255916833,
+      "absolute_error": 0.3188942850725077,
+      "relative_error_pct": 56.62583130857127
+    },
+    {
+      "time_step": 716,
+      "insurer_reserve": 0.521738112291541,
+      "model_reserve": 0.22605156262404963,
+      "absolute_error": 0.29568654966749136,
+      "relative_error_pct": 56.673365947677844
+    },
+    {
+      "time_step": 717,
+      "insurer_reserve": 0.483369001993014,
+      "model_reserve": 0.20919800271201122,
+      "absolute_error": 0.2741709992810028,
+      "relative_error_pct": 56.72084849267296
+    },
+    {
+      "time_step": 718,
+      "insurer_reserve": 0.447827556815413,
+      "model_reserve": 0.19360355992116354,
+      "absolute_error": 0.25422399689424946,
+      "relative_error_pct": 56.76827900053421
+    },
+    {
+      "time_step": 719,
+      "insurer_reserve": 0.414904920045502,
+      "model_reserve": 0.1791739616043134,
+      "absolute_error": 0.2357309584411886,
+      "relative_error_pct": 56.815657528316684
+    },
+    {
+      "time_step": 720,
+      "insurer_reserve": 0.384049595713065,
+      "model_reserve": 0.16566753503982498,
+      "absolute_error": 0.21838206067324004,
+      "relative_error_pct": 56.862984133018024
+    },
+    {
+      "time_step": 721,
+      "insurer_reserve": 0.35549970291611,
+      "model_reserve": 0.15318390169905607,
+      "absolute_error": 0.20231580121705392,
+      "relative_error_pct": 56.91025887152315
+    },
+    {
+      "time_step": 722,
+      "insurer_reserve": 0.329082101108975,
+      "model_reserve": 0.14164522326053935,
+      "absolute_error": 0.18743687784843566,
+      "relative_error_pct": 56.95748180067874
+    },
+    {
+      "time_step": 723,
+      "insurer_reserve": 0.304636724860582,
+      "model_reserve": 0.1309796170125821,
+      "absolute_error": 0.17365710784799993,
+      "relative_error_pct": 57.0046529772386
+    },
+    {
+      "time_step": 724,
+      "insurer_reserve": 0.282015590615859,
+      "model_reserve": 0.12112069756162093,
+      "absolute_error": 0.1608948930542381,
+      "relative_error_pct": 57.051772457997664
+    },
+    {
+      "time_step": 725,
+      "insurer_reserve": 0.261081879378345,
+      "model_reserve": 0.1120071540211811,
+      "absolute_error": 0.14907472535716387,
+      "relative_error_pct": 57.098840299495954
+    },
+    {
+      "time_step": 726,
+      "insurer_reserve": 0.240820773025378,
+      "model_reserve": 0.1032016795094759,
+      "absolute_error": 0.1376190935159021,
+      "relative_error_pct": 57.14585655839566
+    },
+    {
+      "time_step": 727,
+      "insurer_reserve": 0.222134971602833,
+      "model_reserve": 0.09508971426866841,
+      "absolute_error": 0.12704525733416458,
+      "relative_error_pct": 57.192821291244314
+    },
+    {
+      "time_step": 728,
+      "insurer_reserve": 0.204901749752575,
+      "model_reserve": 0.0876165320968287,
+      "absolute_error": 0.1172852176557463,
+      "relative_error_pct": 57.23973455442509
+    },
+    {
+      "time_step": 729,
+      "insurer_reserve": 0.189007963431265,
+      "model_reserve": 0.08073173424808623,
+      "absolute_error": 0.10827622918317877,
+      "relative_error_pct": 57.28659640447093
+    },
+    {
+      "time_step": 730,
+      "insurer_reserve": 0.174349300207706,
+      "model_reserve": 0.074388906496583,
+      "absolute_error": 0.099960393711123,
+      "relative_error_pct": 57.33340689755455
+    },
+    {
+      "time_step": 731,
+      "insurer_reserve": 0.160829588360066,
+      "model_reserve": 0.06854530343687329,
+      "absolute_error": 0.09228428492319271,
+      "relative_error_pct": 57.380166090201165
+    },
+    {
+      "time_step": 732,
+      "insurer_reserve": 0.148233102600448,
+      "model_reserve": 0.06310746548690913,
+      "absolute_error": 0.08512563711353888,
+      "relative_error_pct": 57.42687403837798
+    },
+    {
+      "time_step": 733,
+      "insurer_reserve": 0.136627253345333,
+      "model_reserve": 0.05810274681490177,
+      "absolute_error": 0.07852450653043122,
+      "relative_error_pct": 57.473530798395075
+    },
+    {
+      "time_step": 734,
+      "insurer_reserve": 0.125933781842877,
+      "model_reserve": 0.053496498720059425,
+      "absolute_error": 0.07243728312281758,
+      "relative_error_pct": 57.52013642629659
+    },
+    {
+      "time_step": 735,
+      "insurer_reserve": 0.116080641961538,
+      "model_reserve": 0.04925685751805119,
+      "absolute_error": 0.0668237844434868,
+      "relative_error_pct": 57.56669097818058
+    },
+    {
+      "time_step": 736,
+      "insurer_reserve": 0.107001504395298,
+      "model_reserve": 0.045354519539451854,
+      "absolute_error": 0.061646984855846146,
+      "relative_error_pct": 57.61319450995973
+    },
+    {
+      "time_step": 737,
+      "insurer_reserve": 0.0986353006578724,
+      "model_reserve": 0.04176253440468713,
+      "absolute_error": 0.056872766253185277,
+      "relative_error_pct": 57.65964707752536
+    },
+    {
+      "time_step": 738,
+      "insurer_reserve": 0.0905712886646305,
+      "model_reserve": 0.03830617668622783,
+      "absolute_error": 0.052265111978402674,
+      "relative_error_pct": 57.706048736847684
+    },
+    {
+      "time_step": 739,
+      "insurer_reserve": 0.0831676291073351,
+      "model_reserve": 0.035136327654342644,
+      "absolute_error": 0.04803130145299246,
+      "relative_error_pct": 57.752399543581866
+    },
+    {
+      "time_step": 740,
+      "insurer_reserve": 0.0763701524986966,
+      "model_reserve": 0.032229197507390894,
+      "absolute_error": 0.0441409549913057,
+      "relative_error_pct": 57.798699553544886
+    },
+    {
+      "time_step": 741,
+      "insurer_reserve": 0.0701291411654977,
+      "model_reserve": 0.02956297534874259,
+      "absolute_error": 0.040566165816755116,
+      "relative_error_pct": 57.84494882237764
+    },
+    {
+      "time_step": 742,
+      "insurer_reserve": 0.0643989626660997,
+      "model_reserve": 0.027117664261358018,
+      "absolute_error": 0.037281298404741675,
+      "relative_error_pct": 57.891147405650614
+    },
+    {
+      "time_step": 743,
+      "insurer_reserve": 0.059137733456693,
+      "model_reserve": 0.02487493015525484,
+      "absolute_error": 0.03426280330143816,
+      "relative_error_pct": 57.93729535902668
+    },
+    {
+      "time_step": 744,
+      "insurer_reserve": 0.0542646169221348,
+      "model_reserve": 0.022800150974493123,
+      "absolute_error": 0.03146446594764168,
+      "relative_error_pct": 57.983392737832396
+    },
+    {
+      "time_step": 745,
+      "insurer_reserve": 0.0497944840378879,
+      "model_reserve": 0.020899024000171088,
+      "absolute_error": 0.028895460037716814,
+      "relative_error_pct": 58.029439597628276
+    },
+    {
+      "time_step": 746,
+      "insurer_reserve": 0.045693879577762,
+      "model_reserve": 0.01915695979051784,
+      "absolute_error": 0.026536919787244158,
+      "relative_error_pct": 58.07543599374954
+    },
+    {
+      "time_step": 747,
+      "insurer_reserve": 0.0419321376166399,
+      "model_reserve": 0.017560599739490677,
+      "absolute_error": 0.024371537877149223,
+      "relative_error_pct": 58.12138198143727
+    },
+    {
+      "time_step": 748,
+      "insurer_reserve": 0.0384811478952578,
+      "model_reserve": 0.016097711769209887,
+      "absolute_error": 0.02238343612604791,
+      "relative_error_pct": 58.16727761597341
+    },
+    {
+      "time_step": 749,
+      "insurer_reserve": 0.0353151418521825,
+      "model_reserve": 0.014757094904899605,
+      "absolute_error": 0.020558046947282894,
+      "relative_error_pct": 58.213122952562614
+    },
+    {
+      "time_step": 750,
+      "insurer_reserve": 0.0322769727388431,
+      "model_reserve": 0.01347275764309085,
+      "absolute_error": 0.01880421509575225,
+      "relative_error_pct": 58.258918046309475
+    },
+    {
+      "time_step": 751,
+      "insurer_reserve": 0.0295005422434938,
+      "model_reserve": 0.012300350519345986,
+      "absolute_error": 0.017200191724147815,
+      "relative_error_pct": 58.304662952224994
+    },
+    {
+      "time_step": 752,
+      "insurer_reserve": 0.0269632678743337,
+      "model_reserve": 0.011230104615186722,
+      "absolute_error": 0.015733163259146976,
+      "relative_error_pct": 58.35035772545714
+    },
+    {
+      "time_step": 753,
+      "insurer_reserve": 0.0246445186391731,
+      "model_reserve": 0.010253104938049257,
+      "absolute_error": 0.014391413701123843,
+      "relative_error_pct": 58.39600242079113
+    },
+    {
+      "time_step": 754,
+      "insurer_reserve": 0.0225254461170364,
+      "model_reserve": 0.009361215653872794,
+      "absolute_error": 0.013164230463163605,
+      "relative_error_pct": 58.44159709319702
+    },
+    {
+      "time_step": 755,
+      "insurer_reserve": 0.0205888301791602,
+      "model_reserve": 0.008547011877837834,
+      "absolute_error": 0.012041818301322366,
+      "relative_error_pct": 58.48714179745369
+    },
+    {
+      "time_step": 756,
+      "insurer_reserve": 0.0188056592538806,
+      "model_reserve": 0.007798211064768865,
+      "absolute_error": 0.011007448189111734,
+      "relative_error_pct": 58.53263658832017
+    },
+    {
+      "time_step": 757,
+      "insurer_reserve": 0.0171773945541726,
+      "model_reserve": 0.007115206369130075,
+      "absolute_error": 0.010062188185042523,
+      "relative_error_pct": 58.57808152050797
+    },
+    {
+      "time_step": 758,
+      "insurer_reserve": 0.0156905340184456,
+      "model_reserve": 0.006492197472082647,
+      "absolute_error": 0.009198336546362955,
+      "relative_error_pct": 58.623476648720185
+    },
+    {
+      "time_step": 759,
+      "insurer_reserve": 0.0143327568073784,
+      "model_reserve": 0.005923897224432292,
+      "absolute_error": 0.00840885958294611,
+      "relative_error_pct": 58.6688220274364
+    },
+    {
+      "time_step": 760,
+      "insurer_reserve": 0.0130928195486802,
+      "model_reserve": 0.005405486067151839,
+      "absolute_error": 0.007687333481528362,
+      "relative_error_pct": 58.71411771120966
+    },
+    {
+      "time_step": 761,
+      "insurer_reserve": 0.0119604617352001,
+      "model_reserve": 0.004932570517487167,
+      "absolute_error": 0.007027891217712934,
+      "relative_error_pct": 58.759363754574615
+    },
+    {
+      "time_step": 762,
+      "insurer_reserve": 0.0108789441343217,
+      "model_reserve": 0.00448162888043942,
+      "absolute_error": 0.0063973152538822796,
+      "relative_error_pct": 58.80456021186426
+    },
+    {
+      "time_step": 763,
+      "insurer_reserve": 0.00989533772196893,
+      "model_reserve": 0.0040719604523360015,
+      "absolute_error": 0.005823377269632928,
+      "relative_error_pct": 58.849707137375184
+    },
+    {
+      "time_step": 764,
+      "insurer_reserve": 0.00900076721760222,
+      "model_reserve": 0.003699782953601807,
+      "absolute_error": 0.0053009842640004134,
+      "relative_error_pct": 58.894804585476
+    },
+    {
+      "time_step": 765,
+      "insurer_reserve": 0.00818716294567816,
+      "model_reserve": 0.0033616611725234102,
+      "absolute_error": 0.00482550177315475,
+      "relative_error_pct": 58.93985261038485
+    },
+    {
+      "time_step": 766,
+      "insurer_reserve": 0.00744718760500708,
+      "model_reserve": 0.0030544750726756386,
+      "absolute_error": 0.004392712532331441,
+      "relative_error_pct": 58.98485126624207
+    },
+    {
+      "time_step": 767,
+      "insurer_reserve": 0.00596918714525536,
+      "model_reserve": 0.0024455878755454677,
+      "absolute_error": 0.003523599269709892,
+      "relative_error_pct": 59.0298006071169
+    },
+    {
+      "time_step": 768,
+      "insurer_reserve": 0.00543645708098759,
+      "model_reserve": 0.002224886332412536,
+      "absolute_error": 0.0032115707485750543,
+      "relative_error_pct": 59.074700687081275
+    },
+    {
+      "time_step": 769,
+      "insurer_reserve": 0.00495127139997816,
+      "model_reserve": 0.002024101951785213,
+      "absolute_error": 0.002927169448192947,
+      "relative_error_pct": 59.11955156014794
+    },
+    {
+      "time_step": 770,
+      "insurer_reserve": 0.00450938692443209,
+      "model_reserve": 0.0018414373136877084,
+      "absolute_error": 0.0026679496107443815,
+      "relative_error_pct": 59.16435328024955
+    },
+    {
+      "time_step": 771,
+      "insurer_reserve": 0.00410693916603497,
+      "model_reserve": 0.0016752572059191033,
+      "absolute_error": 0.002431681960115867,
+      "relative_error_pct": 59.209105901208794
+    },
+    {
+      "time_step": 772,
+      "insurer_reserve": 0.00374040852917854,
+      "model_reserve": 0.001524073985643441,
+      "absolute_error": 0.0022163345435350992,
+      "relative_error_pct": 59.253809476844644
+    },
+    {
+      "time_step": 773,
+      "insurer_reserve": 0.00340658953043583,
+      "model_reserve": 0.0013865342620263314,
+      "absolute_error": 0.0020200552684094984,
+      "relative_error_pct": 59.29846406094772
+    },
+    {
+      "time_step": 774,
+      "insurer_reserve": 0.00308675575057905,
+      "model_reserve": 0.0012549801338243962,
+      "absolute_error": 0.0018317756167546538,
+      "relative_error_pct": 59.34306970711978
+    },
+    {
+      "time_step": 775,
+      "insurer_reserve": 0.00279695013989955,
+      "model_reserve": 0.001135907838288697,
+      "absolute_error": 0.0016610423016108532,
+      "relative_error_pct": 59.3876264691121
+    },
+    {
+      "time_step": 776,
+      "insurer_reserve": 0.00253435344977217,
+      "model_reserve": 0.0010281331013214858,
+      "absolute_error": 0.0015062203484506843,
+      "relative_error_pct": 59.43213440043608
+    },
+    {
+      "time_step": 777,
+      "insurer_reserve": 0.00229641112179525,
+      "model_reserve": 0.0009305840125432502,
+      "absolute_error": 0.0013658271092519998,
+      "relative_error_pct": 59.47659355456554
+    },
+    {
+      "time_step": 778,
+      "insurer_reserve": 0.00208080843687331,
+      "model_reserve": 0.0008422903642414756,
+      "absolute_error": 0.0012385180726318344,
+      "relative_error_pct": 59.521003985012264
+    },
+    {
+      "time_step": 779,
+      "insurer_reserve": 0.00188544799747281,
+      "model_reserve": 0.0007623740018432135,
+      "absolute_error": 0.0011230739956295966,
+      "relative_error_pct": 59.56536574516649
+    },
+    {
+      "time_step": 780,
+      "insurer_reserve": 0.00170842932399677,
+      "model_reserve": 0.000690040089928167,
+      "absolute_error": 0.001018389234068603,
+      "relative_error_pct": 59.6096788883336
+    },
+    {
+      "time_step": 781,
+      "insurer_reserve": 0.0015480303667904,
+      "model_reserve": 0.0006245692069196993,
+      "absolute_error": 0.0009234611598707008,
+      "relative_error_pct": 59.653943467876125
+    },
+    {
+      "time_step": 782,
+      "insurer_reserve": 0.00140269075392535,
+      "model_reserve": 0.0005653101898373551,
+      "absolute_error": 0.0008373805640879948,
+      "relative_error_pct": 59.69815953692096
+    },
+    {
+      "time_step": 783,
+      "insurer_reserve": 0.00127099661179585,
+      "model_reserve": 0.0005116736579279247,
+      "absolute_error": 0.0007593229538679253,
+      "relative_error_pct": 59.74232714869654
+    },
+    {
+      "time_step": 784,
+      "insurer_reserve": 0.00115166681086036,
+      "model_reserve": 0.0004631261507827053,
+      "absolute_error": 0.0006885406600776547,
+      "relative_error_pct": 59.78644635624049
+    },
+    {
+      "time_step": 785,
+      "insurer_reserve": 0.00104354050272662,
+      "model_reserve": 0.0004191848226215698,
+      "absolute_error": 0.0006243556801050502,
+      "relative_error_pct": 59.83051721267161
+    },
+    {
+      "time_step": 786,
+      "insurer_reserve": 0.000940614613547482,
+      "model_reserve": 0.0003774259426678147,
+      "absolute_error": 0.0005631886708796673,
+      "relative_error_pct": 59.87453977093007
+    },
+    {
+      "time_step": 787,
+      "insurer_reserve": 0.000847840451719259,
+      "model_reserve": 0.0003398270512461515,
+      "absolute_error": 0.0005080134004731075,
+      "relative_error_pct": 59.918514083982785
+    },
+    {
+      "time_step": 788,
+      "insurer_reserve": 0.000764216737884257,
+      "model_reserve": 0.00030597373339611784,
+      "absolute_error": 0.0004582430044881392,
+      "relative_error_pct": 59.96244020469773
+    },
+    {
+      "time_step": 789,
+      "insurer_reserve": 0.000688840950296908,
+      "model_reserve": 0.00027549285786733686,
+      "absolute_error": 0.00041334809242957117,
+      "relative_error_pct": 60.006318185846474
+    },
+    {
+      "time_step": 790,
+      "insurer_reserve": 0.00062089958421954,
+      "model_reserve": 0.00024804846446586015,
+      "absolute_error": 0.00037285111975367984,
+      "relative_error_pct": 60.05014808028052
+    },
+    {
+      "time_step": 791,
+      "insurer_reserve": 0.000559659372047828,
+      "model_reserve": 0.00022333806110377512,
+      "absolute_error": 0.00033632131094405284,
+      "relative_error_pct": 60.09392994053374
+    },
+    {
+      "time_step": 792,
+      "insurer_reserve": 0.000504459369407825,
+      "model_reserve": 0.00020108928972771773,
+      "absolute_error": 0.0003033700796801073,
+      "relative_error_pct": 60.137663819432575
+    },
+    {
+      "time_step": 793,
+      "insurer_reserve": 0.000454703821812516,
+      "model_reserve": 0.00018105692439256789,
+      "absolute_error": 0.0002736468974199481,
+      "relative_error_pct": 60.18134976942826
+    },
+    {
+      "time_step": 794,
+      "insurer_reserve": 0.000409855734890234,
+      "model_reserve": 0.00016302016837816161,
+      "absolute_error": 0.0002468355665120724,
+      "relative_error_pct": 60.224987843144106
+    },
+    {
+      "time_step": 795,
+      "insurer_reserve": 0.000369431078790616,
+      "model_reserve": 0.0001467802205699781,
+      "absolute_error": 0.00022265085822063788,
+      "relative_error_pct": 60.268578092973776
+    },
+    {
+      "time_step": 796,
+      "insurer_reserve": 0.000332993564218273,
+      "model_reserve": 0.00013215808427208706,
+      "absolute_error": 0.00020083547994618591,
+      "relative_error_pct": 60.31212057135761
+    }
+  ],
+  "reserve_estimates": {
+    "constant_vol": {
+      "reserve_estimate": 2213.8973922969617,
+      "std_error": 18.23927943021413,
+      "ci_95_lower": 2178.148404613742,
+      "ci_95_upper": 2249.6463799801813,
+      "mean_payoff": 9090.895496172747,
+      "mean_discounted": 2604.58516740819,
+      "n_paths": 10000
+    },
+    "lstm_vol": {
+      "reserve_estimate": 3568.5235105209617,
+      "std_error": 18.527009362014017,
+      "ci_95_lower": 3532.2105721714142,
+      "ci_95_upper": 3604.8364488705092,
+      "mean_payoff": 14653.377533510407,
+      "mean_discounted": 4198.262953554073,
+      "n_paths": 10000
+    }
+  },
+  "calibrated_fees": {
+    "constant_vol": 0.008261266927910068,
+    "lstm_vol": 0.017915281060210342
+  },
+  "stress_testing": [
+    {
+      "Scenario": "base",
+      "Reserve Estimate (NGN)": 2235.4514259621797,
+      "Change vs Base (%)": 0.0
+    },
+    {
+      "Scenario": "market_crash",
+      "Reserve Estimate (NGN)": 2676.4776688700586,
+      "Change vs Base (%)": 19.728732988150387
+    },
+    {
+      "Scenario": "hyperinflation",
+      "Reserve Estimate (NGN)": 9.658268204183766,
+      "Change vs Base (%)": -99.56794998576063
+    },
+    {
+      "Scenario": "longevity_shock",
+      "Reserve Estimate (NGN)": 2194.1389572404746,
+      "Change vs Base (%)": -1.8480593334262885
+    },
+    {
+      "Scenario": "combined_stress",
+      "Reserve Estimate (NGN)": 277.154793371812,
+      "Change vs Base (%)": -87.6018422877375
+    }
+  ],
+  "parameters": {
+    "premium": 10000,
+    "term_years": 25,
+    "guarantee_type": "roll-up",
+    "roll_up_rate": 0.03,
+    "survival_prob": 0.85,
+    "risk_free_rate": 0.05
+  },
+  "timestamp": "2026-05-29T20:22:38.035356"
+}

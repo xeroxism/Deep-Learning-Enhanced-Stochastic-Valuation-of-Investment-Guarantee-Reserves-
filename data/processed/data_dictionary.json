@@ -1,0 +1,65 @@
+{
+    "stock_returns_daily.csv": {
+        "description": "Daily log returns for all included Nigerian stocks",
+        "frequency": "Daily (business days)",
+        "period": "2005 - Present",
+        "columns": {
+            "GUINNES": "Log return for GUINNES",
+            "TRANSCO": "Log return for TRANSCO",
+            "JBERGER": "Log return for JBERGER",
+            "PZ": "Log return for PZ",
+            "NNFM": "Log return for NNFM",
+            "NCR": "Log return for NCR",
+            "IMG": "Log return for IMG",
+            "NESF": "Log return for NESF",
+            "NB": "Log return for NB",
+            "NESTLE": "Log return for NESTLE"
+        }
+    },
+    "stock_volatility_daily.csv": {
+        "description": "30-day rolling volatility for all included stocks",
+        "frequency": "Daily (business days)",
+        "period": "2005 - Present",
+        "columns": {
+            "GUINNES": "Annualized 30-day rolling volatility for GUINNES",
+            "TRANSCO": "Annualized 30-day rolling volatility for TRANSCO",
+            "JBERGER": "Annualized 30-day rolling volatility for JBERGER",
+            "PZ": "Annualized 30-day rolling volatility for PZ",
+            "NNFM": "Annualized 30-day rolling volatility for NNFM",
+            "NCR": "Annualized 30-day rolling volatility for NCR",
+            "IMG": "Annualized 30-day rolling volatility for IMG",
+            "NESF": "Annualized 30-day rolling volatility for NESF",
+            "NB": "Annualized 30-day rolling volatility for NB",
+            "NESTLE": "Annualized 30-day rolling volatility for NESTLE"
+        }
+    },
+    "macro_mortality_yearly.csv": {
+        "description": "Yearly macroeconomic and mortality indicators for Nigeria",
+        "frequency": "Annual",
+        "period": "2005 - Present",
+        "columns": {
+            "life_expectancy": "Life expectancy at birth (years)",
+            "mortality_rate": "Death rate, crude (per 1,000 people)",
+            "infant_mortality": "Mortality rate, infant (per 1,000 live births)",
+            "under5_mortality": "Mortality rate, under-5 (per 1,000)",
+            "population": "Total population",
+            "inflation": "Inflation, consumer prices (annual %)",
+            "gdp_growth": "GDP growth (annual %)",
+            "gdp_per_capita": "GDP per capita (constant 2015 US$)",
+            "interest_rate": "Real interest rate (%)",
+            "exchange_rate_NGN_USD": "NGN/USD exchange rate (yearly average)",
+            "bond_yield_NG10YT": "10-Year Nigerian government bond yield (%)",
+            "bond_yield_NG20YT": "20-Year Nigerian government bond yield (%)"
+        }
+    },
+    "stock_risk_metrics.csv": {
+        "description": "Risk-return metrics for portfolio selection",
+        "frequency": "Summary statistics",
+        "columns": {
+            "annual_return": "Annualized average return",
+            "annual_volatility": "Annualized standard deviation",
+            "sharpe_ratio": "Risk-adjusted return (using 10Y bond yield)",
+            "max_drawdown": "Maximum drawdown over the period"
+        }
+    }
+}

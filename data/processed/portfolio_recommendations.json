@@ -1,0 +1,23 @@
+{
+  "aggressive": [
+    "JBERGER",
+    "NNFM",
+    "GUINNES",
+    "NCR",
+    "IMG"
+  ],
+  "conservative": [
+    "NESF",
+    "NESTLE",
+    "NB",
+    "PZ",
+    "IMG"
+  ],
+  "balanced": [
+    "JBERGER",
+    "GUINNES",
+    "NNFM",
+    "NCR",
+    "IMG"
+  ]
+}
